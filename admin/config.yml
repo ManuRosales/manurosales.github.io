@@ -2,7 +2,7 @@ backend:
   name: github
   repo: ManuRosales/manurosales.github.io.git
   branch: main
-  site_domain: chipper-kelpie-a0b34b.netlify.app
+  site_domain: stirring-crostata-fc9897.netlify.app
 
 media_folder: "images/uploads"
 
