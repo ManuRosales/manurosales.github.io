@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Chivo:wght@300&family=Montserrat&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/8ea5547e50.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <header>
+    {% include navigation.html %}
+    <div id="hero">
+      <div id="hero-title">
+        <h1>
+          MANU
+          <br />
+          ROSALES
+        </h1>
+      </div>
+    </div>
+  </header>  
+  <body>
+    {{ content }}
+  </body>
+  {% include footer.html %}
+  <script src="script.js"></script>
+</html>
