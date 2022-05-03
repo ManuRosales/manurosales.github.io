@@ -1,5 +1,6 @@
 ---
 title: Manu Rosales - Músico, compositor, productor y docente
+BIO: Test
 layout: index
 ---
 
@@ -10,7 +11,7 @@ layout: index
         </h2>
         <div id="bio-text">
             <p>
-                TEST With a contemporary view over songwriting, <span class="bold">Manu Rosales</span> creates an eclectic universe of sounds. His guitar evokes different roots of the world, from the folklore of Argentina, passing through the Andes and Brazil and reaching the Northwest of Africa.
+                With a contemporary view over songwriting, <span class="bold">Manu Rosales</span> creates an eclectic universe of sounds. His guitar evokes different roots of the world, from the folklore of Argentina, passing through the Andes and Brazil and reaching the Northwest of Africa.
             </p>
             <p>
                 Manu's nomadic curiosity has inspired him to delve into multiple cultures, which shines through in his lyrics and music. Contemplative and profound, and also nostalgic yet hopeful, the poetics of his compositions narrate mystical and mundane episodes of everyday life, passing through the complexities and crises of our time, like climate issues and forced migration, or the nostalgia of being far away from home.
