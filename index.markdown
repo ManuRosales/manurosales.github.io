@@ -1,6 +1,6 @@
 ---
 title: Manu Rosales - Músico, compositor, productor y docente
-BIO: Test
+Bio: Test
 layout: index
 ---
 
@@ -10,6 +10,7 @@ layout: index
             BIO —
         </h2>
         <div id="bio-text">
+            <p>{{ page.bio }}</p>
             <p>
                 With a contemporary view over songwriting, <span class="bold">Manu Rosales</span> creates an eclectic universe of sounds. His guitar evokes different roots of the world, from the folklore of Argentina, passing through the Andes and Brazil and reaching the Northwest of Africa.
             </p>
