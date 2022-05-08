@@ -27,8 +27,8 @@ layout: index
         </h2>
         <div id="bio-text">
             {% for paragraph in page.bio %}
-  <p>{{ paragraph }}</p>
-{% endfor %}
+                <p>{{ paragraph }}</p>
+            {% endfor %}
         </div>
         <div id="bio-fotos">
             <div id="left-gallery-arrow">
