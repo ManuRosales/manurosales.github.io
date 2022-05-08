@@ -23,11 +23,49 @@ main, footer {
     background-color: black;
 }
 
-#hero {
-    background-image: url(./assets/hero-background-animation.gif);
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+#empty-div {
+    width: 100%;
+    height: 100%;
+    z-index: 15;
+    position: absolute;
+}
+
+#video-background {
+    overflow: hidden;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+#video-background > iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    transform: translate(-50%, -50%);
+}
+
+@media (min-aspect-ratio: 16/9) {
+    #video-background > iframe {
+      /* height = 100 * (9 / 16) = 56.25 */
+      height: 70vw;
+    }
+  }
+      
+  @media (max-aspect-ratio: 16/9) {
+    #video-background > iframe {
+      /* width = 100 / (9 / 16) = 177.777777 */
+      width: 177.78vh;
+    }
+  }
+
+#hero-title {
+    width: 80%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .cuerpo-aldea-header {
@@ -195,6 +233,7 @@ nav li {
 
 #hero {
     height: 100vh;
+    width: 100vw;
 }
 
 section {
@@ -260,6 +299,7 @@ nav {
     position: fixed;
     top: 0;
     transition: all .2s ease-in-out;
+    z-index: 20;
 }
 
 #nav-links {
@@ -396,6 +436,10 @@ nav {
 
     #hero-title {
         width: 80%;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
     }
 
     #bio-fotos {
