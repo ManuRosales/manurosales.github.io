@@ -1,5 +1,6 @@
 ---
 title: Manu Rosales - Músico, compositor, productor y docente
+tituloBio: BIO
 bio:
 - With a contemporary view over songwriting, <span class="bold">Manu Rosales</span>
   creates an eclectic universe of sounds. His guitar evokes different roots of the
@@ -21,13 +22,16 @@ fotos:
 - "/uploads/manu-rosales-1.png"
 - "/uploads/manu-rosales-2.png"
 - "/uploads/manu-rosales-3.jpeg"
+tituloVideo: MAREA
+urlVideo: POjvEmtovIk
+tituloLinks: LINKS
 layout: index
 ---
 
 <main>
     <section id="bio">
         <h2>
-            BIO —
+            {{ page.tituloBio }} —
         </h2>
         <div id="bio-text">
             {% for paragraph in page.bio %}
@@ -51,13 +55,16 @@ layout: index
             </div>
         </div>
         <h2>
-            MAREA —
+            {{ page.tituloVideo }} —
         </h2>
         <div id="bio-video">
-            <iframe src="https://www.youtube.com/embed/POjvEmtovIk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            {% capture videoEmbed %}
+                <iframe src="https://www.youtube.com/embed/{{ page.urlVideo }}?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            {% endcapture %}
+            {{ videoEmbed }}
         </div>
         <h2>
-            LINKS —
+            {{ page.tituloLinks }} —
         </h2>
         <div id="bio-text-links">
             <a href="https://open.spotify.com/artist/1CviTVT7wHkZab0k53O1Kj?si=y31kJpQOSzKlwq2IVpDaHg">
