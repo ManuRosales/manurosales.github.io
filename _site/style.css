@@ -309,19 +309,19 @@ nav {
 /* BIO FOTOS IMAGES*/
 
 #bio-fotos #foto-1 {
-    background-image: url('./assets/manu-rosales-1.png');
+    background-image: url('/_uploads/manu-rosales-1.png');
     background-size: cover;
     background-position: center;
 }
 
 #bio-fotos #foto-2 {
-    background-image: url('./assets/manu-rosales-2.png');
+    background-image: url('/_uploads/manu-rosales-2.png');
     background-size: cover;
     background-position: center;
 }
 
 #bio-fotos #foto-3 {
-    background-image: url('./assets/manu-rosales-3.jpeg');
+    background-image: url('/_uploads/manu-rosales-3.jpeg');
     background-size: cover;
     background-position: center;
 }
