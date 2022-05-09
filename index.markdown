@@ -17,6 +17,10 @@ bio:
 - Since 2020 he has been conducting the project <span class="bold">"Delving into South
   American Folk Music"</span> in cooperation with Klangfolk e.V., a Tübingen based
   cultural associacion, in which he shares different aspects of South American music.
+fotos:
+- "/uploads/manu-rosales-1.png"
+- "/uploads/manu-rosales-2.png"
+- "/uploads/manu-rosales-3.jpeg"
 layout: index
 ---
 
