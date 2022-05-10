@@ -1,0 +1,388 @@
+/* MARGIN * PADDING RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+}
+
+/* -------------- */
+/* --- MOBILE --- */
+/* -------------- */
+
+/* BACKGROUND COLORS & IMAGES */
+
+main, footer {
+    background-color: black;
+}
+
+#musica-hero {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.cuerpo-aldea-header {
+    background-image: url(../assets/cuerpo-aldea/hero-cuerpo-aldea.jpg);
+}
+
+/* FONT COLORS */
+
+h1, h2 {
+    color: #999999;
+}
+
+nav a, p {
+    color: #e6e6e6;
+}
+
+/* FONT ALIGNMENT */
+
+h1, h2, p {
+    text-align: center;
+}
+
+/* FONT STYLES & FAMILIES*/
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+h1, h2 {
+    font-family: 'Chivo', sans-serif;
+}
+
+p, a {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* FONT SIZES */
+
+h1 {
+    font-size: 3.5em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+nav {
+    font-size: 1.25em;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+footer p {
+    font-size: 1em;
+}
+
+/* ICONS */
+
+#dropdown-div-icon i {
+    font-size: 1.25em;
+}
+
+#dropdown-div-icon i {
+    color: #999999;
+}
+
+i {
+    color: #e6e6e6;
+}
+
+#bio-text-links i {
+    font-size: 2.5em;
+    transition: all .2s ease-in-out;
+}
+
+#bio-text-links a {
+    text-decoration: none;
+}
+
+#bio-text-links .fa-spotify:hover {
+    color: #1DB954;
+}
+
+#bio-text-links .fa-youtube:hover {
+    color: #FF0000;
+}
+
+#bio-text-links .fa-instagram:hover {
+    color: #8a3ab9;
+}
+
+#bio-text-links .fa-envelope:hover {
+    color: #ff5800;
+}
+
+/* DISPLAY FLEX */
+
+nav, main, #musica-hero, section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#nav-links {
+    display: flex;
+    justify-content: left;
+}
+
+#dropdown-div-icon {
+    display: flex;
+    justify-content: right;
+}
+
+#bio-text-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+/* WIDTHS, HEIGHTS & MARGINS */
+
+nav {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 100%;
+}
+
+#nav-links {
+    width: 80%;
+}
+
+#dropdown-div-icon {
+    width: 80%;
+}
+
+#nav-links {
+    margin-top: 1em;
+}
+
+nav li {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#hero {
+    height: 100vh;
+}
+
+#musica-hero {
+    height: 50vh;
+}
+
+#musica-section {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    width: 80%;
+}
+
+#musica-section p {
+    margin-bottom: 1em;
+}
+
+#musica-section p:first-of-type {
+    margin-top: 2em;
+    margin-bottom: 0;
+}
+
+#musica-section p:last-of-type {
+    margin-bottom: 0;
+}
+
+.album-cover-art {
+    width: 80vw;
+    height: 80vw;
+}
+
+h2 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#bio-text-links {
+    width: 100%;
+}
+
+footer {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+/* MOBILE NAV ANIMATION & POSITION */
+
+nav {
+    position: fixed;
+    top: 0;
+    transition: all .2s ease-in-out;
+}
+
+#nav-links {
+    display: none;
+}
+
+/* --------------- */
+/* --- DESKTOP --- */
+/* --------------- */
+
+@media (min-width: 767px) {
+
+    /* BACKGROUND COLORS */
+
+    nav {
+        background-color: black;
+    }
+
+    /* FONT SIZES */
+
+    h1 {
+        font-size: 5em;
+    }
+
+    p {
+        font-size: 1.25em;
+    }
+
+    /* FONT ALIGNMENT */
+
+    nav {
+        text-align: center;
+    }
+
+    /* DISPLAY FLEX */
+
+    #nav-links {
+        display: flex;
+    }
+
+    #nav-links ul {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #bio-fotos {
+        justify-content: space-evenly;
+    }
+
+    #nav-links {
+        justify-content: center;
+    }
+
+    #bio-text-links {
+        justify-content: center;
+    }
+
+    #nav-links #proyectos-dropdown, #max-height-proyectos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* WIDTHS, HEIGHTS & MARGINS */
+
+    #nav {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    #nav-links {
+        padding-top: 1em;
+        padding-bottom: 1em;
+        margin-top: 0;
+        min-width: 100vw;
+        max-height: 64px;
+    }
+
+    #nav-links ul li {
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-right: 2em;
+    }
+
+    #nav-links ul li:last-of-type {
+        margin-right: 0;
+    }
+
+    #nav-links #max-height-proyectos {
+        max-width: 82px;
+    }
+
+    #nav-links #proyectos-dropdown {
+        padding-top: 1em;
+        min-width: 300px;
+    }
+
+    #nav-links #proyectos-dropdown li {
+        margin-top: 0.5em;
+        margin-right: 0;
+    }
+
+    #nav-links #proyectos-dropdown li:first-of-type {
+        margin-top: 0;
+    }
+
+    #nav-links #proyectos-dropdown li:last-of-type {
+        margin-bottom: 1em;
+    }
+    
+    #musica-hero-title {
+        width: 80%;
+    }
+
+    .album-cover-art {
+        width: 50vh;
+        height: 50vh;
+    }
+
+    #bio-text-links a {
+        margin-right: 2em;
+    }
+
+    #bio-text-links a:last-of-type {
+        margin-right: 0;
+    }
+
+    /* DESKTOP NAV ANIMATION */
+
+    #dropdown-div-icon {
+        display: none;
+    }
+
+    /* PROYECTOS NAV DROPDOWN */
+
+    #proyectos-link {
+        cursor: pointer;
+    }
+
+    #nav-links #proyectos-dropdown {
+        display: none;
+    }
+
+    #proyectos-dropdown {
+        white-space: nowrap;
+    }
+
+    /* SCALE ON HOVER ANIMATION */
+
+    #nav-links ul li a {
+        transition: all .2s ease-in-out;
+    }
+
+    #nav-links ul li a:hover {
+        color: white;
+    }
+
+}

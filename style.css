@@ -418,7 +418,7 @@ nav {
     }
 
     #nav-links #proyectos-dropdown {
-        margin-top: 1em;
+        padding-top: 1em;
         min-width: 300px;
     }
 
