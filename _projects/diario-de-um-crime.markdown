@@ -1,4 +1,5 @@
 ---
+title: Diario De Um Crime
 projectTitle: DIÁRIO DE UM CRIME
 layout: projects
 ---

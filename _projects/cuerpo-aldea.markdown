@@ -1,4 +1,5 @@
 ---
+title: Cuerpo Aldea
 projectTitle: CUERPO ALDEA
 layout: projects
 ---

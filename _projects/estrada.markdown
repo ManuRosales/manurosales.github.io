@@ -1,4 +1,5 @@
 ---
+title: Estrada
 projectTitle: ESTRADA
 layout: projects
 ---
