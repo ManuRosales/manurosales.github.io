@@ -42,14 +42,9 @@ layout: index
             <div id="left-gallery-arrow">
                 <i class="fa-solid fa-chevron-left"></i>
             </div>
-            {% for foto in page.fotos %}
-                {% assign fotoNumber = 1 %}
-                {% capture image %}
-                    <div id="foto-{{ fotoNumber }}" style="background-image: url({{ foto }})" class="foto"></div>
-                {% endcapture %}
-                {{ image }}
-                {{ fotoNumber | plus: 1 }}
-            {% endfor %}
+            <div id="foto-1" style="background-image: url({{ page.fotos[0] }})" class="foto"></div>
+            <div id="foto-2" style="background-image: url({{ page.fotos[1] }})" class="foto"></div>
+            <div id="foto-3" style="background-image: url({{ page.fotos[2] }})" class="foto"></div>
             <div id="right-gallery-arrow">
                 <i class="fa-solid fa-chevron-right"></i>
             </div>
