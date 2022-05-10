@@ -1,5 +1,5 @@
 ---
-title: Manu Rosales - Músico, compositor, productor y docente
+title: Manu Rosales - Musician, composer, producer and teacher
 tituloBio: BIO
 bio:
 - With a contemporary view over songwriting, <span class="bold">Manu Rosales</span>
@@ -42,9 +42,15 @@ layout: index
             <div id="left-gallery-arrow">
                 <i class="fa-solid fa-chevron-left"></i>
             </div>
-            <div id="foto-1" style="background-image: url({{ page.fotos[0] }})" class="foto"></div>
+            {% for foto in page.fotos %}
+                {% capture image %}
+                    <div id="foto-{{ forloop.index }}" style="background-image: url({{ foto }})" class="foto"></div>
+                {% endcapture %}
+                {{ image }}
+            {% endfor %}
+            <!-- <div id="foto-1" style="background-image: url({{ page.fotos[0] }})" class="foto"></div>
             <div id="foto-2" style="background-image: url({{ page.fotos[1] }})" class="foto"></div>
-            <div id="foto-3" style="background-image: url({{ page.fotos[2] }})" class="foto"></div>
+            <div id="foto-3" style="background-image: url({{ page.fotos[2] }})" class="foto"></div> -->
             <div id="right-gallery-arrow">
                 <i class="fa-solid fa-chevron-right"></i>
             </div>

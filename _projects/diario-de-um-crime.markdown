@@ -1,6 +1,7 @@
 ---
 title: Diario De Um Crime
 projectTitle: DIÁRIO DE UM CRIME
+backgroundImage: '/uploads/hero-diario-de-um-crime.png'
 layout: projects
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Estrada
 projectTitle: ESTRADA
+backgroundImage: '/uploads/hero-estrada.jpg'
 layout: projects
 ---
 

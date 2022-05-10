@@ -15,13 +15,16 @@
 <body>
     <header>
         {% include navigation.html %}
-        <div id="musica-hero" class="cuerpo-aldea-header">
-            <div id="musica-hero-title">
-                <h1>
-                    {{ page.projectTitle }}
-                </h1>
+        {% capture projectHero %}
+            <div id="musica-hero" style="background-image: url({{ page.backgroundImage }})">
+                <div id="musica-hero-title">
+                    <h1>
+                        {{ page.projectTitle }}
+                    </h1>
+                </div>
             </div>
-        </div>
+        {% endcapture %}
+        {{ projectHero }}
     </header>
     <main>
         {{ content }}
