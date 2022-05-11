@@ -48,9 +48,6 @@ layout: index
                 {% endcapture %}
                 {{ image }}
             {% endfor %}
-            <!-- <div id="foto-1" style="background-image: url({{ page.fotos[0] }})" class="foto"></div>
-            <div id="foto-2" style="background-image: url({{ page.fotos[1] }})" class="foto"></div>
-            <div id="foto-3" style="background-image: url({{ page.fotos[2] }})" class="foto"></div> -->
             <div id="right-gallery-arrow">
                 <i class="fa-solid fa-chevron-right"></i>
             </div>
