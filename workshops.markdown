@@ -1,7 +1,7 @@
 ---
 title: Workshops - Manu Rosales - Musician, composer, producer and teacher
 workshopsTitle: WORKSHOPS
-background-image:
+background-image: 
 workshops:
 - title: Delving into south american folk music
   image: "/uploads/manu-rosales-1.png"
