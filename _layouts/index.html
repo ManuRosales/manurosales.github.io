@@ -18,6 +18,20 @@
       crossorigin="anonymous"
     ></script>
   </head>
+  <style>
+    #video-background > iframe {
+      display: none
+    }
+    #video-background {
+      background-image: url("{{ page.video-fallback-image }}");
+      background-position: center;
+    }
+    @media(min-width: 767px) {
+      #video-background > iframe {
+        display: block;
+      }
+    }
+  </style>
   <header>
     {% include navigation.html %}
     <div id="hero">

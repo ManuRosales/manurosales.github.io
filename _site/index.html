@@ -18,6 +18,20 @@
       crossorigin="anonymous"
     ></script>
   </head>
+  <style>
+    #video-background > iframe {
+      display: none
+    }
+    #video-background {
+      background-image: url("/uploads/hero-mobile-fallback.png");
+      background-position: center;
+    }
+    @media(min-width: 767px) {
+      #video-background > iframe {
+        display: block;
+      }
+    }
+  </style>
   <header>
     <nav id="nav">
   <div id="dropdown-div-icon">
@@ -26,7 +40,7 @@
   <div id="nav-links">
     <ul>
       <li>
-        <a href="/#bio"> BIO </a>
+        <a href="/"> BIO </a>
       </li>
       <li id="max-height-proyectos">
         <a id="proyectos-link"> MUSIC </a>

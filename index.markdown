@@ -1,7 +1,7 @@
 ---
 title: Manu Rosales - Musician, composer, producer and teacher
 tituloBio: BIO
-bio:
+bio-text:
 - With a contemporary view over songwriting, <span class="bold">Manu Rosales</span>
   creates an eclectic universe of sounds. His guitar evokes different roots of the
   world, from the folklore of Argentina, passing through the Andes and Brazil and
@@ -18,12 +18,13 @@ bio:
 - Since 2020 he has been conducting the project <span class="bold">"Delving into South
   American Folk Music"</span> in cooperation with Klangfolk e.V., a Tübingen based
   cultural associacion, in which he shares different aspects of South American music.
-fotos:
+images:
 - "/uploads/manu-rosales-1.png"
 - "/uploads/manu-rosales-2.png"
 - "/uploads/manu-rosales-3.jpeg"
 tituloVideo: MAREA
 urlVideo: POjvEmtovIk
+video-fallback-image: "/uploads/hero-mobile-fallback.png"
 tituloLinks: LINKS
 layout: index
 ---
@@ -34,7 +35,7 @@ layout: index
             {{ page.tituloBio }} —
         </h2>
         <div id="bio-text">
-            {% for paragraph in page.bio %}
+            {% for paragraph in page.bio-text %}
                 <p>{{ paragraph }}</p>
             {% endfor %}
         </div>
@@ -42,11 +43,11 @@ layout: index
             <div id="left-gallery-arrow">
                 <i class="fa-solid fa-chevron-left"></i>
             </div>
-            {% for foto in page.fotos %}
-                {% capture image %}
-                    <div id="foto-{{ forloop.index }}" style="background-image: url({{ foto }})" class="foto"></div>
+            {% for image in page.images %}
+                {% capture slide %}
+                    <div id="foto-{{ forloop.index }}" style="background-image: url({{ image }})" class="foto"></div>
                 {% endcapture %}
-                {{ image }}
+                {{ slide }}
             {% endfor %}
             <div id="right-gallery-arrow">
                 <i class="fa-solid fa-chevron-right"></i>
