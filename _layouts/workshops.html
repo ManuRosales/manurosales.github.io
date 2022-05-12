@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manu Rosales - Músico, compositor, productor y docente</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link href="/styles/project-style.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chivo:wght@300&family=Montserrat&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/8ea5547e50.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        {% include navigation.html %}
+        {% capture projectHero %}
+            <div id="musica-hero" style="background-image: url({{ page.backgroundImage }})">
+                <div id="musica-hero-title">
+                    <h1>
+                        {{ page.projectTitle }}
+                    </h1>
+                </div>
+            </div>
+        {% endcapture %}
+        {{ projectHero }}
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    {% include footer.html %}
+    <script src="../script.js"></script> 
+</body>
+</html>
