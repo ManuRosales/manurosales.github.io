@@ -1,7 +1,7 @@
 ---
 title: Cuerpo Aldea
 projectTitle: CUERPO ALDEA
-backgroundImage: '/uploads/hero-cuerpo-aldea.jpg'
+backgroundImage: "/uploads/hero-cuerpo-aldea.jpg"
 layout: projects
 ---
 
