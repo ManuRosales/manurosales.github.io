@@ -1,9 +1,11 @@
 ---
-title: Manu Rosales - Musician, composer, producer and teacher
+title: Workshops - Manu Rosales - Musician, composer, producer and teacher
+workshopsTitle: WORKSHOPS
+background-image:
 workshops:
-- Title: Delving into south american folk music
-  Image: "/uploads/manu-rosales-1.png"
-  Description:
+- title: Delving into south american folk music
+  image: "/uploads/manu-rosales-1.png"
+  description:
   - In 2020 the project "Delving into South American folk music" was born in cooperation
     with Klangfolk e.V., a cultural association based in Tübingen. Different aspects
     of South American music have been studied since.
@@ -13,14 +15,14 @@ workshops:
     and the journey is still under way.
   - The workshops are free to anyone in the world who wants to join. To participate,
     get in touch!
-- Title: Canciones a mano
-  Image: "/uploads/manu-rosales-1.png"
-  Description:
+- title: Canciones a mano
+  image: "/uploads/manu-rosales-1.png"
+  description:
   - Since 2021 he started with the project "Canciones a mano", a song-writing workshop,
     in wich he shares and creates a space for new composers.
 layout: workshops
 ---
 
-<main>
-    
-</main>
+<section id="musica-section">
+
+</section>
