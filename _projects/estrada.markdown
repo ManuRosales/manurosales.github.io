@@ -1,5 +1,5 @@
 ---
-title: Estrada
+title: Estrada - Manu Rosales - Musician, composer, producer and teacher
 projectTitle: ESTRADA
 backgroundImage: "/uploads/hero-estrada.jpg"
 layout: projects
