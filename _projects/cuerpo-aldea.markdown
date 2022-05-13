@@ -1,5 +1,5 @@
 ---
-title: Cuerpo Aldea
+title: Cuerpo Aldea - Manu Rosales - Musician, composer, producer and teacher
 projectTitle: CUERPO ALDEA
 backgroundImage: "/uploads/hero-cuerpo-aldea.jpg"
 layout: projects
