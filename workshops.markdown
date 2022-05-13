@@ -20,7 +20,7 @@ workshops:
   description:
   - Since 2021 he started with the project "Canciones a mano", a song-writing workshop,
     in wich he shares and creates a space for new composers.
-layout: workshops
+layout: basic-page
 ---
 
 <section id="musica-section">
