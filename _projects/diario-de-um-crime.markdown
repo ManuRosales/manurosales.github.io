@@ -1,5 +1,5 @@
 ---
-title: Diario De Um Crime
+title: Diario De Um Crime - Manu Rosales - Musician, composer, producer and teacher
 projectTitle: DIÁRIO DE UM CRIME
 backgroundImage: "/uploads/hero-diario-de-um-crime.png"
 layout: projects
