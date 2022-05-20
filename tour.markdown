@@ -4,8 +4,8 @@ workshopsTitle: TOUR
 background-image: "/uploads/hero-tour.png"
 tour-dates:
 - date: 2022-07-14 00:00:00 Z
-  venue: Cafe Berlin
-  location: Barcelona, España
+  venue: Cafe asdasd
+  location: Barcelona, asdas
 - date: 2022-10-10 00:00:00 Z
   venue: Café Berlín
   location: Barcelona, España
