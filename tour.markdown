@@ -30,6 +30,9 @@ tour-dates:
 - date: 2022-07-14 00:00:00 Z
   venue: Cafe Berlin
   location: Barcelona, España
+- date: 2022-05-12 00:00:00 Z
+  venue: Test
+  location: Test, TEst
 layout: basic-page
 ---
 
