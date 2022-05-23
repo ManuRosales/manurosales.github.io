@@ -13,7 +13,7 @@ tour-dates:
   venue: Le Local
   location: Strasbourg, France
 - date: 2022-06-25 21:00:00 Z
-  venue: Eröffnungsfestival Panorama e.V.
+  venue: 'Eröffnungsfestival '
   location: Karlsruhe, Germany
 - date: 2022-06-26 21:00:00 Z
   venue: House Concert
@@ -28,7 +28,9 @@ tour-dates:
   venue: House Concert
   location: Strasbourg, France
 - date: 2022-07-15 20:00:00 Z
-  venue: Muzikantenhuis "Ghent Festeen"
+  venue: |-
+    Muzikantenhuis
+    "Ghent Festeen"
   location: Barcelona, España
 - date: 2022-07-16 20:00:00 Z
   venue: Librairie Nijinski
