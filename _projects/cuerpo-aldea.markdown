@@ -19,7 +19,7 @@ layout: projects
     <span class="bold">Emmanuel Sandoval:</span> Chelo.<br />
     <span class="bold">Juan Klas:</span> Flute and clarinet.<br />
     <span class="bold">Nico Simari:</span> Double Bass<br />
-    <span class="bold">Guillermo O'Connor:</span> SSecond guitar at “Agua de lo imposible".<br />
+    <span class="bold">Guillermo O'Connor:</span> Second guitar at “Agua de lo imposible".<br />
 </p>
 <p>
     Cover art/design: <span class="bold">Mauro Tapia</span> and <span class="bold">Lucía Rosales</span>.
