@@ -1,0 +1,130 @@
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    transition: all .2s ease-in-out;
+    z-index: 20;
+}
+
+nav a {
+    color: #e6e6e6;
+    text-decoration: none;
+}
+
+nav ul li {
+    list-style: none;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#nav-links {
+    display: flex;
+    justify-content: left;
+    width: 80%;
+    margin-top: 1em;
+    display: none;
+}
+
+#dropdown-div-icon {
+    display: flex;
+    justify-content: right;
+    width: 80%;
+}
+
+#dropdown-div-icon i {
+    font-size: 1.25em;
+    color: #999999;
+}
+
+
+
+@media (min-width: 767px) {
+
+    nav {
+        text-align: center;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    #nav-links {
+        padding-top: 1em;
+        padding-bottom: 1em;
+        margin-top: 0;
+        min-width: 100vw;
+        max-height: 64px;
+        display: flex;
+        justify-content: center;
+    }
+
+    #nav-links ul {
+        display: flex;
+        flex-direction: row;
+        min-width: 440px;
+        justify-content: space-between;
+    }
+
+    #nav-links ul li {
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-right: 2em;
+    }
+
+    #nav-links ul li:last-of-type {
+        margin-right: 0;
+    }
+
+    #nav-links ul li a {
+        transition: all .2s ease-in-out;
+    }
+
+    #nav-links ul li a:hover {
+        color: white;
+    }
+
+    #nav-links #max-height-proyectos {
+        max-width: 82px;
+        min-width: 82px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #nav-links #proyectos-dropdown {
+        padding-top: 1em;
+        min-width: 300px;
+        display: none;
+        white-space: nowrap;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #nav-links #proyectos-dropdown li {
+        margin-top: 0.5em;
+        margin-right: 0;
+    }
+
+    #nav-links #proyectos-dropdown li:first-of-type {
+        margin-top: 0;
+    }
+
+    #nav-links #proyectos-dropdown li:last-of-type {
+        margin-bottom: 1em;
+    }
+
+    #dropdown-div-icon {
+        display: none;
+    }
+    
+    #proyectos-link {
+        cursor: pointer;
+    }
+
+
+}

@@ -1,0 +1,17 @@
+/* -- LAYOUTS --  */
+
+@use 'layouts/index';
+
+/* -- INCLUDES -- */
+
+/* NAVIGATION */
+
+@use 'includes/navigation';
+
+/* INDEX */
+
+@use 'includes/index/index-hero';
+
+/* FOOTER */
+
+@use 'includes/footer';

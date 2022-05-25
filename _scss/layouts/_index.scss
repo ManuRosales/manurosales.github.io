@@ -1,0 +1,278 @@
+/* MARGIN * PADDING RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+}
+
+/* SMOOTH SCROLLING */
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* -------------- */
+/* --- MOBILE --- */
+/* -------------- */
+
+/* BACKGROUND COLORS & IMAGES */
+
+main {
+    background-color: black;
+}
+
+.cuerpo-aldea-header {
+    background-image: url(./assets/cuerpo-aldea/hero-cuerpo-aldea.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* FONT COLORS */
+
+h1, h2 {
+    color: #999999;
+}
+
+p {
+    color: #e6e6e6;
+}
+
+/* FONT ALIGNMENT */
+
+h1, h2, p {
+    text-align: center;
+}
+
+/* FONT STYLES & FAMILIES*/
+
+
+h1, h2 {
+    font-family: 'Chivo', sans-serif;
+}
+
+p, a {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* FONT SIZES */
+
+h1 {
+    font-size: 3.5em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+/* ICONS */
+
+i {
+    color: #e6e6e6;
+}
+
+#bio-text-links i {
+    font-size: 2.5em;
+    transition: all .2s ease-in-out;
+}
+
+#bio-text-links a {
+    text-decoration: none;
+}
+
+#bio-text-links .fa-spotify:hover {
+    color: #1DB954;
+}
+
+#bio-text-links .fa-youtube:hover {
+    color: #FF0000;
+}
+
+#bio-text-links .fa-instagram:hover {
+    color: #8a3ab9;
+}
+
+#bio-text-links .fa-envelope:hover {
+    color: #ff5800;
+}
+
+/* DISPLAY FLEX */
+
+main, section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#bio-fotos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#bio-text-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* WIDTHS, HEIGHTS & MARGINS */
+
+section {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    width: 80%;
+}
+
+h2 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h2:first-of-type {
+    margin-top: 0;
+}
+
+#bio-text p {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#bio-text p:first-of-type {
+    margin-top: 0;
+}
+
+#bio-text p:last-of-type {
+    margin-bottom: 0;
+}
+
+#bio-fotos {
+    width: 100vw;
+    margin-top: 2em;
+}
+
+#bio-fotos .foto {
+    width: 70vw;
+    height: 70vw;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#bio-fotos .foto:first-of-type {
+    margin: 0;
+}
+
+#bio-fotos .foto:last-of-type {
+    margin: 0;
+}
+
+#bio-text-links {
+    width: 100%;
+}
+
+/* BIO FOTOS IMAGES*/
+
+#bio-fotos #foto-1 {
+    background-image: url('/_uploads/manu-rosales-1.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#bio-fotos #foto-2 {
+    background-image: url('/_uploads/manu-rosales-2.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#bio-fotos #foto-3 {
+    background-image: url('/_uploads/manu-rosales-3.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* IMAGE GALLERY */
+
+#bio-fotos #foto-2, #bio-fotos #foto-3 {
+    display: none;
+}
+
+/* --------------- */
+/* --- DESKTOP --- */
+/* --------------- */
+
+@media (min-width: 767px) {
+
+    /* FONT SIZES */
+
+    h1 {
+        font-size: 7em;
+    }
+
+    p {
+        font-size: 1.25em;
+    }
+
+    /* FONT ALIGNMENT */
+
+    h1 {
+        text-align: left;
+    }
+
+    /* DISPLAY FLEX */
+
+    #bio-fotos {
+        justify-content: space-evenly;
+    }
+
+    #bio-text-links {
+        justify-content: center;
+    }
+
+    /* WIDTHS, HEIGHTS & MARGINS */
+
+    #bio-fotos {
+        width: 100%;
+    }
+
+    #bio-fotos .foto {
+        width: 20vw;
+        height: 20vw;
+        margin: 0;
+    }
+
+    #bio-video, #bio-video iframe {
+        width: 100%;
+        height: 80vh;
+    }
+
+    #bio-text-links a {
+        margin-right: 2em;
+    }
+
+    #bio-text-links a:last-of-type {
+        margin-right: 0;
+    }
+
+    /* IMAGE GALLERY */
+
+    #bio-fotos #foto-2, #bio-fotos #foto-3 {
+        display: block;
+    }
+
+    #bio-fotos #left-gallery-arrow, #bio-fotos #right-gallery-arrow {
+        display: none;
+    }
+
+}

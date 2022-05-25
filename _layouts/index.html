@@ -18,42 +18,9 @@
       crossorigin="anonymous"
     ></script>
   </head>
-  <style>
-    #video-background > iframe {
-      display: none
-    }
-    #video-background {
-      background-image: url("{{ page.video-fallback-image }}");
-      background-position: center;
-      background-size: cover;
-    }
-    @media(min-width: 767px) {
-      #video-background {
-        background-image: none;
-      }
-      #video-background > iframe {
-        display: block;
-      }
-    }
-  </style>
   <header>
     {% include navigation.html %}
-    <div id="hero">
-      <div id="empty-div"></div>
-      <div id="video-background">
-        <iframe
-          src="https://www.youtube.com/embed/z0Ns-sjJugk?controls=0&autoplay=1&mute=1&loop=1&playlist=z0Ns-sjJugk&modestbranding=1showinfo=0"
-        ></iframe>
-      </div>
-      </div>
-      <div id="hero-title">
-        <h1>
-          MANU
-          <br />
-          ROSALES
-        </h1>
-      </div>
-    </div>
+    {% include index/index-hero.html %}
   </header>
   <body>
     {{ content }}

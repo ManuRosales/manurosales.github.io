@@ -19,7 +19,7 @@ document.getElementById('dropdown-div-icon').onclick = () => {
         /* CLOSE NAV */
         
         document.getElementById('nav-links').style.display = 'none';
-        document.getElementById('dropdown-icon').className = 'fa-solid fa-chevron-down';
+        document.getElementById('dropdown-icon').className = 'fa-solid fa-bars';
         
         if (!isNavScrolled) {
             document.getElementById('nav').style.backgroundColor = 'transparent';
