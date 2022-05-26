@@ -1,7 +1,7 @@
 ---
 title: Manu Rosales - Musician, composer, producer and teacher
 tituloBio: BIO
-bio-text:
+bio-desktop-text:
 - With a contemporary view over songwriting, <span class="bold">Manu Rosales</span>
   creates an eclectic universe of sounds. His guitar evokes different roots of the
   world, from the folklore of Argentina, passing through the Andes and Brazil and
@@ -18,6 +18,11 @@ bio-text:
 - Since 2020 he has been conducting the project <span class="bold">"Delving into South
   American Folk Music"</span> in cooperation with Klangfolk e.V., a Tübingen based
   cultural associacion, in which he shares different aspects of South American music.
+bio-mobile-text:
+- With a contemporary view over songwriting, <span class="bold">Manu Rosales</span>
+  creates an eclectic universe of sounds. His guitar evokes different roots of the
+  world, from the folklore of Argentina, passing through the Andes and Brazil and
+  reaching the Northwest of Africa.
 images:
 - "/uploads/manu-rosales-1.png"
 - "/uploads/manu-rosales-2.png"
@@ -34,50 +39,14 @@ layout: index
         <h2>
             {{ page.tituloBio }} —
         </h2>
-        <div id="bio-text">
-            {% for paragraph in page.bio-text %}
-                <p>{{ paragraph }}</p>
-            {% endfor %}
-        </div>
-        <div id="bio-fotos">
-            <div id="left-gallery-arrow">
-                <i class="fa-solid fa-chevron-left"></i>
-            </div>
-            {% for image in page.images %}
-                {% capture slide %}
-                    <div id="foto-{{ forloop.index }}" style="background-image: url({{ image }})" class="foto"></div>
-                {% endcapture %}
-                {{ slide }}
-            {% endfor %}
-            <div id="right-gallery-arrow">
-                <i class="fa-solid fa-chevron-right"></i>
-            </div>
-        </div>
+        {% include index/bio.html %}
         <h2>
             {{ page.tituloVideo }} —
         </h2>
-        <div id="bio-video">
-            {% capture videoEmbed %}
-                <iframe src="https://www.youtube.com/embed/{{ page.urlVideo }}?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            {% endcapture %}
-            {{ videoEmbed }}
-        </div>
+        {% include index/video.html %}
         <h2>
             {{ page.tituloLinks }} —
         </h2>
-        <div id="bio-text-links">
-            <a href="https://open.spotify.com/artist/1CviTVT7wHkZab0k53O1Kj?si=y31kJpQOSzKlwq2IVpDaHg">
-                <i class="fa-brands fa-spotify"></i>
-            </a>
-            <a href="https://www.youtube.com/c/ManuRosales">
-                <i class="fa-brands fa-youtube"></i>
-            </a>
-            <a href="https://www.instagram.com/manurosalesmusico/">
-                <i class="fa-brands fa-instagram"></i>
-            </a>
-            <a href="mailto:rosalesmanuelmail@gmail.com">
-                <i class="fa fa-envelope"></i>
-            </a>
-        </div>
+        {% include index/links.html %}
     </section>
 </main>

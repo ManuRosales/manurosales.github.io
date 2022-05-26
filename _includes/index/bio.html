@@ -1,0 +1,12 @@
+<div id="bio-text">
+    <div id="bio-desktop">
+        {% for paragraph in page.bio-desktop-text %}
+            <p>{{ paragraph }}</p>
+        {% endfor %}
+    </div>
+    <div id="bio-mobile">
+        {% for paragraph in page.bio-mobile-text %}
+            <p>{{ paragraph }}</p>
+        {% endfor %}
+    </div>
+</div>
