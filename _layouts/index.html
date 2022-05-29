@@ -18,13 +18,15 @@
       crossorigin="anonymous"
     ></script>
   </head>
-  <header>
-    {% include navigation.html %}
-    {% include index/hero.html %}
-  </header>
   <body>
-    {{ content }}
+    <header>
+      {% include navigation.html %}
+      {% include index/hero.html %}
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    {% include footer.html %}
+    <script src="script.js"></script>
   </body>
-  {% include footer.html %}
-  <script src="script.js"></script>
 </html>

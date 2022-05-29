@@ -17,11 +17,6 @@ main, footer {
     background-color: black;
 }
 
-#musica-hero {
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
 
 /* FONT COLORS */
 
@@ -124,13 +119,6 @@ i {
 
 /* DISPLAY FLEX */
 
-nav, main, #musica-hero, section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
 #nav-links {
     display: flex;
     justify-content: left;
@@ -176,9 +164,7 @@ nav li {
     height: 100vh;
 }
 
-#musica-hero {
-    height: 50vh;
-}
+
 
 #musica-section {
     padding-top: 2em;
@@ -334,10 +320,6 @@ nav {
         margin-bottom: 1em;
     }
     
-    #musica-hero-title {
-        width: 80%;
-    }
-
     .album-cover-art {
         width: 50vh;
         height: 50vh;
