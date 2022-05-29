@@ -15,8 +15,18 @@
     display: none;
 }
 
+#bio-movile {
+    display: block;
+}
+
 @media (min-width: 767px) {
+
     #bio-mobile {
         display: none;
     }
+
+    #bio-desktop {
+        display: block;
+    }
+
 }

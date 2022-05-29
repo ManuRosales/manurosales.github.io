@@ -44,6 +44,7 @@ layout: index
             {{ page.tituloVideo }} —
         </h2>
         {% include index/video.html %}
+        {% include index/fotos.html %}
         <h2>
             {{ page.tituloLinks }} —
         </h2>
