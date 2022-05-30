@@ -1,0 +1,12 @@
+{% capture workshopRow %}
+    <div class="workshop-container">
+        <div class="workshop-image-container">
+            <img src="{{ workshop.image }}" class="workshop-image" />
+        </div>
+        <div class="workshop-text">
+            <h2>{{ workshop.title }}</h2>
+            <p>{{ workshop.description }}</p>
+        </div>
+    </div>
+{% endcapture %}
+{{ workshopRow }}

@@ -1,7 +1,7 @@
 ---
 title: Workshops - Manu Rosales - Musician, composer, producer and teacher
-workshopsTitle: WORKSHOPS
-background-image: "/uploads/workshops-header.png"
+smallHeroTitle: WORKSHOPS
+backgroundImage: "/uploads/workshops-header.png"
 workshops:
 - title: Delving into south american folk music
   image: "/uploads/workshop-delving.png"
@@ -20,61 +20,11 @@ workshops:
   description:
   - Since 2021 he started with the project "Canciones a mano", a song-writing workshop,
     in wich he shares and creates a space for new composers.
-layout: basic-page
+layout: workshops
 ---
 
-<section id="musica-section">
-  <style>
-    .workshop-container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      margin-top: 30px;
-    }
-    .workshop-container:first-of-type {
-        margin-top: 0;
-      }
-    .workshop-image-container {
-        width: 80%
-    }
-    .workshop-image {
-      width: 100%;
-      height: auto;
-    }
-    @media (min-width: 767px) {
-      .workshop-container {
-        display: flex;
-        flex-direction: row;
-      }
-      .workshop-image-container {
-        width: 30%
-      }
-      .workshop-image {
-        width: 100%;
-        height: auto;
-      }
-      .workshop-text {
-        width: 70%;
-        margin-left: 10px;
-      }
-      .workshop-text > h2, .workshop-text > p {
-        text-align: left;
-      }
-    }
-  </style>
-    {% for workshop in page.workshops %}
-      {% capture workshopRow %}
-        <div class="workshop-container">
-          <div class="workshop-image-container">
-            <img src="{{ workshop.image }}" class="workshop-image" />
-          </div>
-          <div class="workshop-text">
-            <h2>{{ workshop.title }}</h2>
-            <p>{{ workshop.description }}</p>
-          </div>
-        </div>
-      {% endcapture %}
-      {{ workshopRow }}
-    {% endfor %}
+<section>
+  {% for workshop in page.workshops %}
+    {% include workshops/workshop.html %}
+  {% endfor %}
 </section>
