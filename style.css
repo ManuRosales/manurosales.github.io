@@ -572,7 +572,7 @@ nav ul li {
     margin-right: 0;
   }
 }
-#projects-hero {
+#small-hero {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -584,11 +584,11 @@ nav ul li {
 }
 
 @media (min-width: 767px) {
-  #projects-hero-title {
+  #small-hero-title {
     width: 80%;
   }
 
-  #projects-hero-title > h1 {
+  #small-hero-title > h1 {
     font-size: 5em;
     text-align: center;
   }
