@@ -1,6 +1,7 @@
 ---
 title: Diario De Um Crime - Manu Rosales - Musician, composer, producer and teacher
 smallHeroTitle: DIÁRIO DE UM CRIME
+smallHeroTitleColor: "#999999"
 backgroundImage: "/uploads/hero-diario-de-um-crime.png"
 primary-text: The Diary of a Crime talks about borders, between inside and outside,
   Me and the World, the legal and the illegal, normality and craziness. Borders, in
