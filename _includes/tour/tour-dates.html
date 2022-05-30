@@ -1,0 +1,9 @@
+<div id="dates-container">
+    {% for date in page.tour-dates %}
+        <div class="date-container">
+            <p>{{ date.date | date: "%d.%b.%y"}}</p>
+            <p class="date-bold">{{ date.venue }}</p>
+            <p class="date-grey">{{ date.location }}</p>
+        </div>
+    {% endfor %}
+</div>

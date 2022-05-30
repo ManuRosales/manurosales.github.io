@@ -2,11 +2,6 @@
 
 @use 'common';
 
-/* -- LAYOUTS --  */
-
-@use 'layouts/index';
-@use 'layouts/projects';
-
 /* -- INCLUDES -- */
 
 /* NAVIGATION */
@@ -31,6 +26,8 @@
 @use 'includes/workshops/workshops-workshop';
 
 /* TOUR */
+
+@use 'includes/tour/tour-dates';
 
 /* FOOTER */
 

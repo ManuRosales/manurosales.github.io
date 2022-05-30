@@ -1,6 +1,6 @@
 ---
 title: Estrada - Manu Rosales - Musician, composer, producer and teacher
-layout: basic-page
+layout: projects
 ---
 
 <section>

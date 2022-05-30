@@ -657,6 +657,45 @@ nav ul li {
     text-align: left;
   }
 }
+#dates-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+
+.date-container {
+  margin-bottom: 30px;
+}
+
+main {
+  min-height: 50vh;
+}
+
+.date-container > p {
+  margin: 0;
+}
+
+.date-bold {
+  font-weight: bold;
+}
+
+.date-grey {
+  color: #999999;
+}
+
+@media (min-width: 767px) {
+  #dates-container {
+    width: 80%;
+  }
+
+  .date-container {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+  }
+}
 footer {
   background-color: black;
   padding-top: 1em;
@@ -668,7 +707,6 @@ footer p {
 }
 
 /* -- COMMON STYLES */
-/* -- LAYOUTS --  */
 /* -- INCLUDES -- */
 /* NAVIGATION */
 /* INDEX */
