@@ -528,7 +528,7 @@ nav ul li {
   }
 
   .slide-image:hover {
-    transform: scale(1.05);
+    transform: scale(1.1);
   }
 }
 #bio-text-links {

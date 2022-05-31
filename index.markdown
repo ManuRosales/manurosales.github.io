@@ -34,20 +34,18 @@ tituloLinks: LINKS
 layout: index
 ---
 
-<main>
-    <section id="bio">
-        <h2>
-            {{ page.tituloBio }} —
-        </h2>
-        {% include index/bio.html %}
-        <h2>
-            {{ page.tituloVideo }} —
-        </h2>
-        {% include index/video.html %}
-        {% include index/fotos.html %}
-        <h2>
-            {{ page.tituloLinks }} —
-        </h2>
-        {% include index/links.html %}
-    </section>
-</main>
+<section id="bio">
+    <h2>
+        {{ page.tituloBio }} —
+    </h2>
+    {% include index/bio.html %}
+    <h2>
+        {{ page.tituloVideo }} —
+    </h2>
+    {% include index/video.html %}
+    {% include index/fotos.html %}
+    <h2>
+        {{ page.tituloLinks }} —
+    </h2>
+    {% include index/links.html %}
+</section>
