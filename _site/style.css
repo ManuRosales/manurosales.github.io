@@ -513,6 +513,7 @@ nav ul li {
   .slide-image {
     width: 350px;
     height: 350px;
+    transition: transform 0.2s;
   }
 
   #fotos-mobile {
@@ -524,6 +525,10 @@ nav ul li {
     align-items: center;
     justify-content: space-between;
     flex-direction: row;
+  }
+
+  .slide-image:hover {
+    transform: scale(1.05);
   }
 }
 #bio-text-links {

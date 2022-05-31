@@ -168,6 +168,7 @@
   .slide-image {
     width: 350px;
     height: 350px;
+    transition: transform .2s;
   }
 
   #fotos-mobile {
@@ -180,4 +181,9 @@
     justify-content: space-between;
     flex-direction: row;
   }
+
+  .slide-image:hover {
+    transform: scale(1.05);
+  }
+
 }
