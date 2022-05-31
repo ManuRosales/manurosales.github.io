@@ -62,6 +62,8 @@ document.getElementById('proyectos-link').onclick = () => {
 
                 document.getElementById('nav-links').style.backgroundColor = 'transparent';
 
+            } else if (isNavScrolled) {
+                document.getElementById('nav-links').style.backgroundColor = 'black';
             }
 
         }
@@ -78,12 +80,12 @@ window.onscroll = () => {
 
         if (isNavClosed) {
 
-            if (window.scrollY > window.innerHeight) {
+            if (window.scrollY > window.innerHeight / 2) {
 
                 document.getElementById('nav').style.backgroundColor = 'black';
                 isNavScrolled = true;
 
-            } else if (window.scrollY < window.innerHeight) {
+            } else if (window.scrollY < window.innerHeight / 2) {
 
                 document.getElementById('nav').style.backgroundColor = 'transparent';
                 isNavScrolled = false;
@@ -96,12 +98,12 @@ window.onscroll = () => {
 
         if (isNavDropdownClosed) {
 
-            if (window.scrollY > window.innerHeight) {
+            if (window.scrollY > window.innerHeight / 2) {
 
                 document.getElementById('nav-links').style.backgroundColor = 'black';
                 isNavScrolled = true;
 
-            } else if (window.scrollY < window.innerHeight) {
+            } else if (window.scrollY < window.innerHeight / 2) {
 
                 document.getElementById('nav-links').style.backgroundColor = 'transparent';
                 isNavScrolled = false;
@@ -113,71 +115,3 @@ window.onscroll = () => {
     }
 
 };
-
-/* IMAGE GALLERY JS */
-
-let activeImage = 1;
-
-document.getElementById('left-gallery-arrow').onclick = () => {
-
-    console.log('Click');
-
-    if (activeImage == 1) {
-
-        console.log('IF funcionando');
-
-        document.getElementById('foto-1').style.display = 'none';
-        document.getElementById('foto-3').style.display = 'block';
-
-        activeImage = 3;
-
-    } else if (activeImage == 3) {
-
-        document.getElementById('foto-3').style.display = 'none';
-        document.getElementById('foto-2').style.display = 'block';
-
-        activeImage = 2;
-
-    } else if (activeImage == 2) {
-
-        document.getElementById('foto-2').style.display = 'none';
-        document.getElementById('foto-1').style.display = 'block';
-
-        activeImage = 1;
-
-    }
-
-};
-
-document.getElementById('right-gallery-arrow').onclick = () => {
-
-    console.log('Click');
-
-    if (activeImage == 1) {
-
-        console.log('IF funcionando');
-
-        document.getElementById('foto-1').style.display = 'none';
-        document.getElementById('foto-2').style.display = 'block';
-
-        activeImage = 2;
-
-    } else if (activeImage == 2) {
-
-        document.getElementById('foto-2').style.display = 'none';
-        document.getElementById('foto-3').style.display = 'block';
-
-        activeImage = 3;
-
-    } else if (activeImage == 3) {
-
-        document.getElementById('foto-3').style.display = 'none';
-        document.getElementById('foto-1').style.display = 'block';
-
-        activeImage = 1;
-
-    }
-
-};
-
-
