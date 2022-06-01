@@ -24,9 +24,10 @@ bio-mobile-text:
   world, from the folklore of Argentina, passing through the Andes and Brazil and
   reaching the Northwest of Africa.
 images:
-- "/uploads/manu-rosales-1.png"
-- "/uploads/manu-rosales-2.png"
-- "/uploads/manu-rosales-3.jpeg"
+- "/uploads/ethno%20grande.png"
+- "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo(3).png"
+- "/uploads/IMG-20190731-WA0016.jpg"
+- 
 tituloVideo: MAREA
 urlVideo: POjvEmtovIk
 video-fallback-image: "/uploads/hero-mobile-fallback.png"
