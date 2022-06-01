@@ -17,7 +17,7 @@ workshops:
   - The workshops are free to anyone in the world who wants to join. To participate,
     get in touch!
 - title: Particular Lessons
-  image: 
+  image: "/uploads/clases.png"
   description: 'For particular lessons, get in contact. '
 layout: workshops
 ---
