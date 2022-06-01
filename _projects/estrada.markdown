@@ -2,7 +2,7 @@
 title: Estrada - Manu Rosales - Musician, composer, producer and teacher
 smallHeroTitle: ESTRADA
 smallHeroTitleColor: "#151d1e"
-backgroundImage: "/uploads/tapa retocada para la web.jpg"
+backgroundImage: "/uploads/tapa.jpg"
 primary-text:
 - The poetics of Estrada proposes to shift the focus from personal biography and turn
   to the landscapes of the encounters that emerge along the road.
