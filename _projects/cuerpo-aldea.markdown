@@ -1,7 +1,7 @@
 ---
 title: Cuerpo Aldea - Manu Rosales - Musician, composer, producer and teacher
 smallHeroTitle: CUERPO ALDEA
-smallHeroTitleColor: "#999999"
+smallHeroTitleColor: "#151d1e"
 backgroundImage: "/uploads/hero-cuerpo-aldea.jpg"
 embed: <iframe src="https://bandcamp.com/EmbeddedPlayer/album=2443839239/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/"
   seamless><a href="https://manurosales.bandcamp.com/album/cuerpo-aldea">Cuerpo Aldea
