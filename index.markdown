@@ -25,7 +25,7 @@ bio-mobile-text:
   reaching the Northwest of Africa.
 images:
 - "/uploads/ethno%20grande.png"
-- "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo.png"
+- "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg"
 - "/uploads/IMG-20190731-WA0016.jpg"
 tituloVideo: MAREA
 urlVideo: POjvEmtovIk
