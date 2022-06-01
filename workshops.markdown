@@ -16,11 +16,9 @@ workshops:
     and the journey is still under way.
   - The workshops are free to anyone in the world who wants to join. To participate,
     get in touch!
-- title: Canciones a mano
-  image: "/uploads/workshop-canciones.png"
-  description:
-  - Since 2021 he started with the project "Canciones a mano", a song-writing workshop,
-    in wich he shares and creates a space for new composers.
+- title: Particular Lessons
+  image: 
+  description: 'For particular lessons, get in contact. '
 layout: workshops
 ---
 
