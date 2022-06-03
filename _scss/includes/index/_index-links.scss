@@ -1,7 +1,8 @@
 #bio-text-links {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
+    column-gap: 2em;
     width: 100%;
 }
 
@@ -35,14 +36,6 @@
 
     #bio-text-links {
         justify-content: center;
-    }
-
-    #bio-text-links a {
-        margin-right: 2em;
-    }
-
-    #bio-text-links a:last-of-type {
-        margin-right: 0;
     }
 
 }
