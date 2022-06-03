@@ -5,28 +5,29 @@ let isNavClosed = true, isNavScrolled = false;
 document.getElementById('dropdown-div-icon').onclick = () => {
 
     if (isNavClosed) {
-        
+
         /* OPEN NAV */
 
         document.getElementById('nav-links').style.display = 'flex';
         document.getElementById('dropdown-icon').className = 'fa-solid fa-chevron-up';
-        document.getElementById('nav').style.backgroundColor = 'black';
+
+        // document.getElementById('nav').style.backgroundColor = 'black';
 
         isNavClosed = false;
 
     } else if (!isNavClosed) {
 
         /* CLOSE NAV */
-        
+
         document.getElementById('nav-links').style.display = 'none';
         document.getElementById('dropdown-icon').className = 'fa-solid fa-bars';
-        
-        if (!isNavScrolled) {
-            document.getElementById('nav').style.backgroundColor = 'transparent';
-        } else if (isNavScrolled) {
-            document.getElementById('nav').style.backgroundColor = 'black';
-        }
-        
+
+        // if (!isNavScrolled) {
+        //     document.getElementById('nav').style.backgroundColor = 'transparent';
+        // } else if (isNavScrolled) {
+        //     document.getElementById('nav').style.backgroundColor = 'black';
+        // }
+
         isNavClosed = true;
 
     }
@@ -44,6 +45,7 @@ document.getElementById('proyectos-link').onclick = () => {
         if (isNavDropdownClosed) {
 
             document.getElementById('proyectos-dropdown').style.display = 'flex';
+            document.getElementById('proyectos-dropdown').style.backgroundColor = 'black';
             isNavDropdownClosed = false;
 
             if (isNavScrolled == false) {
@@ -51,10 +53,10 @@ document.getElementById('proyectos-link').onclick = () => {
                 document.getElementById('nav-links').style.backgroundColor = 'black';
                 document.getElementById('proyectos-dropdown').style.backgroundColor = 'black';
 
-            } 
-    
+            }
+
         } else if (!isNavDropdownClosed) {
-    
+
             document.getElementById('proyectos-dropdown').style.display = 'none';
             isNavDropdownClosed = true;
 
@@ -78,21 +80,21 @@ window.onscroll = () => {
 
     if (window.innerWidth < 768) {
 
-        if (isNavClosed) {
+        // if (isNavClosed) {
 
-            if (window.scrollY > window.innerHeight / 2) {
+        //     if (window.scrollY > window.innerHeight / 2) {
 
-                document.getElementById('nav').style.backgroundColor = 'black';
-                isNavScrolled = true;
+        //         document.getElementById('nav').style.backgroundColor = 'black';
+        //         isNavScrolled = true;
 
-            } else if (window.scrollY < window.innerHeight / 2) {
+        //     } else if (window.scrollY < window.innerHeight / 2) {
 
-                document.getElementById('nav').style.backgroundColor = 'transparent';
-                isNavScrolled = false;
+        //         document.getElementById('nav').style.backgroundColor = 'transparent';
+        //         isNavScrolled = false;
 
-            }
+        //     }
 
-        }
+        // }
 
     } else if (window.innerWidth >= 768) {
 
@@ -107,7 +109,7 @@ window.onscroll = () => {
 
                 document.getElementById('nav-links').style.backgroundColor = 'transparent';
                 isNavScrolled = false;
-                
+
             }
 
         }
