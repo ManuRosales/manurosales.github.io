@@ -728,12 +728,8 @@ h2 > a {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
-  padding-top: 30px;
-}
-
-.date-container {
-  margin-bottom: 30px;
+  justify-content: center;
+  row-gap: 30px;
 }
 
 main {
@@ -755,12 +751,13 @@ main {
 @media (min-width: 767px) {
   #dates-container {
     width: 80%;
+    column-gap: 40px;
+    row-gap: 80px;
+    justify-content: flex-start;
   }
 
   .date-container {
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-bottom: 50px;
+    width: 190px;
   }
 }
 footer {
