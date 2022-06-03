@@ -10,14 +10,20 @@
   padding-top: 64px;
 }
 
-@media (min-width: 767px) {
+#small-hero-title {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
 
+@media (min-width: 767px) {
   #small-hero {
     height: 50vh;
   }
 
   #small-hero-title {
     width: 80%;
+    justify-content: left;
   }
 
   #small-hero-title > h1 {
