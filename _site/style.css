@@ -593,6 +593,40 @@ nav ul li {
     margin-right: 0;
   }
 }
+#english-text, #divider {
+  margin-top: 1.5em;
+}
+
+div > div {
+  margin-top: 1.5em;
+}
+
+div > div:first-child {
+  margin-top: 0;
+}
+
+#estrada-cover {
+  width: 100%;
+}
+
+h2 > a {
+  text-align: center;
+  color: #999999;
+}
+
+#divider {
+  width: 30%;
+}
+
+#english-text {
+  font-style: italic;
+}
+
+@media (min-width: 767px) {
+  #estrada-cover {
+    width: 800px;
+  }
+}
 #small-hero {
   background-size: cover;
   background-position: center;
@@ -736,6 +770,7 @@ footer p {
 /* -- INCLUDES -- */
 /* NAVIGATION */
 /* INDEX */
+/* ESTRADA ALBUM */
 /* PROJECTS */
 /* WORKSHOPS */
 /* TOUR */

@@ -37,24 +37,12 @@ credits-english-text:
 layout: projects
 ---
 
-<style>
-    #english-text, #divider {
-        margin-top: 1.5em;
-    }
-    div > div {
-        margin-top: 1.5em;
-    }
-    div > div:first-child {
-        margin-top: 0;
-    }
-</style>
-
 <section>
-    <div style="width: 800px;">
+    <div id="estrada-cover">
         <img style="width: 100%;" src="{{ page.album-cover-image }}" />
     </div>
     <h2>
-        <a style="color: #999999;" href="https://drive.google.com/drive/folders/17om4QYm2P1ykhf3H97LQDichG-s_bULT" target="_blank">
+        <a href="https://drive.google.com/drive/folders/17om4QYm2P1ykhf3H97LQDichG-s_bULT" target="_blank">
             DESCARGAR | <em>DOWNLOAD</em>
         </a>
     </h2>
@@ -84,10 +72,10 @@ layout: projects
             {% endfor %}
         </div>
     </div>
-    <div id="divider" style="width: 30%;">
+    <div id="divider">
         <hr />
     </div>
-    <div id="english-text" style="font-style: italic;">
+    <div id="english-text">
         <div>
             {% for paragraph in page.english-personal-text %}
                 <p>
