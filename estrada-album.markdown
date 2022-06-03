@@ -37,7 +37,7 @@ credits-english-text:
 layout: projects
 ---
 
-<section>
+<section id="estrada=album">
     <div id="estrada-cover">
         <img style="width: 100%;" src="{{ page.album-cover-image }}" />
     </div>
