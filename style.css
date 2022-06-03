@@ -73,6 +73,12 @@ p:last-of-type {
 
 a {
   font-family: "Montserrat", sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .bold {
