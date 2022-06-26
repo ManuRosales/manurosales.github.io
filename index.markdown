@@ -30,7 +30,7 @@ images:
 - "/uploads/IMG-20190731-WA0016.jpg"
 tituloVideo: MAREA
 urlVideo: POjvEmtovIk
-video-fallback-image: "/uploads/hero-mobile-fallback.png"
+video-fallback-image: "/uploads/Manuel-Rosales.JPG"
 tituloLinks: LINKS
 layout: index
 ---
