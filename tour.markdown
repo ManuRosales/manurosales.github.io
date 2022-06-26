@@ -4,27 +4,26 @@ smallHeroTitle: TOUR
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/hero-tour.png"
 tour-dates:
-- date: 2022-06-08 21:00:00 Z
-  venue: B.O.T.A.
-  location: Lisboa, Portugal
-- date: 2022-06-09 21:00:00 Z
-  venue: 31 Clube recreativo
-  location: Praia das maçãs, Portugal
-- date: 2022-06-10 21:00:00 Z
-  venue: Xiquê - Restaurant
-  location: Almoçageme, Portugal
 - date: 2022-06-26 21:00:00 Z
-  venue: Workshop, B.O.T.A
-  location: Lisboa, Portugal
-- date: 2022-06-11 21:00:00 Z
-  venue: Pharmácia Musical
-  location: Lisboa, Portugal
-- date: 2022-06-17 20:00:00 Z
-  venue: House concert
-  location: Porto, Portugal
-- date: 2022-06-18 20:00:00 Z
-  venue: Casa da Horta
-  location: Porto, Portugal
+  venue: Letschebar
+  location: Karlsruhe, Germany
+- date: 2022-07-01 21:00:00 Z
+  venue: Albatros Library
+  location: 'Geneva, Switzerland '
+- date: 2022-07-07 20:30:00 Z
+  venue: 'Club Voltaire
+
+'
+  location: Tübingen, Germany
+- date: 2022-07-15 16:30:00 Z
+  venue: Muzikantenhuis
+  location: Ghent, Belgium
+- date: 2022-07-21 20:00:00 Z
+  venue: Haus Rothenburg
+  location: Tübingen, Germany
+- date: 2022-07-24 19:00:00 Z
+  venue: J.A.L.T. , Lichtenstein
+  location: Tübingen, Germany
 layout: tour
 ---
 
