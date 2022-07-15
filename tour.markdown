@@ -2,28 +2,31 @@
 title: Tour - Manu Rosales - Musician, composer, producer and teacher
 smallHeroTitle: TOUR
 smallHeroTitle-color: "#999999"
-backgroundImage: "/uploads/hero-tour.png"
+backgroundImage: "/uploads/tour.png"
 tour-dates:
-- date: 2022-06-26 21:00:00 Z
-  venue: Letschebar
-  location: Karlsruhe, Germany
-- date: 2022-07-01 21:00:00 Z
-  venue: Albatros Library
-  location: 'Geneva, Switzerland '
-- date: 2022-07-07 20:30:00 Z
-  venue: 'Club Voltaire
-
-'
-  location: Tübingen, Germany
 - date: 2022-07-15 16:30:00 Z
   venue: Muzikantenhuis
   location: Ghent, Belgium
+- date: 2022-07-17 14:00:00 Z
+  venue: Das Schloss Hohentübingen
+  location: Tübingen, Germany
 - date: 2022-07-21 20:00:00 Z
   venue: Haus Rothenburg
   location: Tübingen, Germany
-- date: 2022-07-24 19:00:00 Z
-  venue: J.A.L.T. , Lichtenstein
+- date: 2022-07-24 18:00:00 Z
+  venue: Jornada de Arte y pensamiento latinoamericano
   location: Tübingen, Germany
+- date: 2022-08-05 15:00:00 Z
+  venue: 'Con Koïro Duo , at Floating Castle Festival
+
+'
+  location: Grad Snežnik, Slovenia
+- date: 2022-08-06 12:00:00 Z
+  venue: Con Koïro Duo , at Floating Castle Festival
+  location: Grad Snežnik, Slovenia
+- date: 2022-08-07 12:00:00 Z
+  venue: Floating Castle Festival
+  location: Grad Snežnik, Slovenia
 layout: tour
 ---
 
