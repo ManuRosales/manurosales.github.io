@@ -4,29 +4,62 @@
   </div>
   <div id="nav-links">
     <ul>
-      <li>
-        <a href="/#bio"> BIO </a>
-      </li>
-      <li id="max-height-proyectos">
-        <a id="proyectos-link"> MUSIC </a>
-        <ul id="proyectos-dropdown">
+     {% if page.language == 'es' %}
+        <li>
+          <a href="/#bio"> BIO </a>
+        </li>
+        <li id="max-height-proyectos">
+          <a id="proyectos-link"> MÚSICA </a>
+          <ul id="proyectos-dropdown">
+            <li>
+              <a href="/projects/cuerpo-aldea"> — CUERPO ALDEA</a>
+            </li>
+            <li>
+              <a href="/projects/estrada"> — ESTRADA</a>
+            </li>
+            <li>
+              <a href="/projects/diario-de-um-crime"> — DIÁRIO DE UM CRIME</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="/workshops"> TALLERES </a>
+        </li>
+        <li>
+          <a href="/tour"> CONCIERTOS </a>
+        </li>
+        <li>
+          <a href="/en"> ENGLISH </a>
+        </li>
+      {% endif %}
+      {% if page.language == 'en' %}
+        <li>
+          <a href="/en/#bio"> BIO </a>
+        </li>
+        <li id="max-height-proyectos">
+          <a id="proyectos-link"> MUSIC </a>
+          <ul id="proyectos-dropdown">
+            <li>
+              <a href="/projects/en/cuerpo-aldea"> — CUERPO ALDEA</a>
+            </li>
+            <li>
+              <a href="/projects/en/estrada"> — ESTRADA</a>
+            </li>
+            <li>
+              <a href="/projects/en/diario-de-um-crime"> — DIÁRIO DE UM CRIME</a>
+            </li>
+          </ul>
+        </li>
           <li>
-            <a href="/projects/cuerpo-aldea"> — CUERPO ALDEA</a>
+            <a href="/en/workshops"> WORKSHOPS </a>
           </li>
           <li>
-            <a href="/projects/estrada"> — ESTRADA</a>
+            <a href="/en/tour"> TOURS </a>
           </li>
           <li>
-            <a href="/projects/diario-de-um-crime"> — DIÁRIO DE UM CRIME</a>
+            <a href="/"> ESPAÑOL </a>
           </li>
-        </ul>
-      </li>
-      <li>
-        <a href="/workshops"> WORKSHOPS </a>
-      </li>
-      <li>
-        <a href="/tour"> TOUR </a>
-      </li>
+      {% endif %}
     </ul>
   </div>
 </nav>

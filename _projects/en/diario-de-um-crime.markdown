@@ -13,7 +13,7 @@ credits-text: <span class="bold">Pavel Tavares:</span> Director<br /><span class
   de Corbier:</span> Co-author, writer<br /><span class="bold">Manu Rosales:</span>
   Original soundtrack and music production<br />
 layout: projects
-language: es
+language: en
 ---
 
 <section>

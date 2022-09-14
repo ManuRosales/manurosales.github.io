@@ -28,7 +28,7 @@ credits-text:
 - All songs composed by <span class="bold">Manu Rosales</span>, except "Jardines humanos/Jarabi"
   (Violeta Parra / trad. Mali).
 layout: projects
-language: es
+language: en
 ---
 
 <section>

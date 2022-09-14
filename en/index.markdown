@@ -33,6 +33,7 @@ urlVideo: POjvEmtovIk
 video-fallback-image: "/uploads/Manuel-Rosales.JPG"
 tituloLinks: LINKS
 layout: index
+language: en
 ---
 
 <section id="bio">

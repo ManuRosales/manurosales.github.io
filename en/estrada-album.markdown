@@ -68,6 +68,7 @@ credits-english-text:
 - Lyrics in Sonho sem ver terra & Ainda, written in collaboration with <span class="bold">Pavel
   Tavares</span>
 layout: projects
+language: en
 ---
 
 <section id="estrada=album">

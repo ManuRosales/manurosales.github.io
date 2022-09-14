@@ -20,6 +20,7 @@ workshops:
   image: "/uploads/clases.png"
   description: 'For particular lessons, get in contact. '
 layout: workshops
+language: en
 ---
 
 <section>
