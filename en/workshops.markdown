@@ -1,5 +1,5 @@
 ---
-title: Workshops - Manu Rosales - Musician, composer, producer and teacher
+title: WORKSHOPS - Manu Rosales - Musician, composer, producer and teacher
 smallHeroTitle: WORKSHOPS
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/workshops-header.png"

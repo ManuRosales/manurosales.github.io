@@ -1,5 +1,5 @@
 ---
-title: Cuerpo Aldea - Manu Rosales - Musician, composer, producer and teacher
+title: CUERPO ALDEA - Manu Rosales - Musician, composer, producer and teacher
 smallHeroTitle: CUERPO ALDEA
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/hero-cuerpo-aldea.jpg"

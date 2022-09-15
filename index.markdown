@@ -1,5 +1,5 @@
 ---
-title: Manu Rosales - Musician, composer, producer and teacher
+title: Manu Rosales - Músico, compositor, productor y docente
 tituloBio: BIO
 bio-desktop-text:
 - Con una visión contemporánea de la composición, Manu Rosales crea un universo ecléctico de canciones. Su guitarra evoca distintas raíces del mundo, desde el folklore de Argentina, pasando por los Andes y Brasil y llegando al Noroeste de África. 

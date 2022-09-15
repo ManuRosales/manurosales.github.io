@@ -1,5 +1,5 @@
 ---
-title: Estrada - Manu Rosales - Musician, composer, producer and teacher
+title: ESTRADA - Manu Rosales - Musician, composer, producer and teacher
 smallHeroTitle: ESTRADA
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/tapa.jpg"
