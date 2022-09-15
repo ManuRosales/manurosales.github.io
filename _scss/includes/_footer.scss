@@ -2,7 +2,30 @@ footer {
     background-color: black;
     padding-top: 1em;
     padding-bottom: 1em;
+    display: flex;
+    justify-content: center;
+    p {
+        font-size: 1em;
+        margin: 0;
+    }
+    #footer-desktop {
+        display: none;
+    }
+    #footer-mobile {
+        display: block;
+    }
 }
-footer p {
-    font-size: 1em;
+
+@media (min-width: 767px) {
+    footer {
+        p {
+            width: 100%;
+        }
+        #footer-desktop {
+            display: block;
+        }
+        #footer-mobile {
+            display: none;
+        }
+    }
 }

@@ -5,7 +5,6 @@
   padding: 0;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
-  max-width: 100%;
 }
 
 /* SMOOTH SCROLLING */
@@ -90,6 +89,10 @@ a:hover {
 /* --- DESKTOP --- */
 /* --------------- */
 @media (min-width: 767px) {
+  * {
+    max-width: 100%;
+  }
+
   /* FONT SIZES */
   h1 {
     font-size: 7em;
@@ -765,12 +768,31 @@ footer {
   background-color: black;
   padding-top: 1em;
   padding-bottom: 1em;
+  display: flex;
+  justify-content: center;
 }
-
 footer p {
   font-size: 1em;
+  margin: 0;
+}
+footer #footer-desktop {
+  display: none;
+}
+footer #footer-mobile {
+  display: block;
 }
 
+@media (min-width: 767px) {
+  footer p {
+    width: 100%;
+  }
+  footer #footer-desktop {
+    display: block;
+  }
+  footer #footer-mobile {
+    display: none;
+  }
+}
 /* -- COMMON STYLES */
 /* -- INCLUDES -- */
 /* NAVIGATION */

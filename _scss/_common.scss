@@ -5,7 +5,6 @@
     padding: 0;
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
-    max-width: 100%;
 }
 
 /* SMOOTH SCROLLING */
@@ -95,6 +94,10 @@ a:hover {
 /* --------------- */
 
 @media (min-width: 767px) {
+
+    * {
+        max-width: 100%;
+    }
 
     /* FONT SIZES */
 
