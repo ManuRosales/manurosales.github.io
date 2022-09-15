@@ -1,24 +1,16 @@
 ---
 title: Workshops - Manu Rosales - Musician, composer, producer and teacher
-smallHeroTitle: WORKSHOPS
+smallHeroTitle: TALLERES
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/workshops-header.png"
 workshops:
 - title: Delving into south american folk music
   image: "/uploads/workshop-delving.png"
   description:
-  - In 2020 the project "Delving into South American folk music" was born in cooperation
-    with Klangfolk e.V., a cultural association based in Tübingen. Different aspects
-    of South American music have been studied since.
-  - The meetings are based on body percussion exercises to delve into the new rhythms,
-    the oral teaching of melodies and finally bring these songs to each instrument.
-  - Songs from Argentina, Brazil, Peru, Bolivia have been studied in the workshops
-    and the journey is still under way.
-  - The workshops are free to anyone in the world who wants to join. To participate,
-    get in touch!
-- title: Particular Lessons
+  - En 2020 nació el proyecto Delving into south american music ("Buceando en la música folclórica sudamericana") en cooperación con Klangfolk e.V., una asociación cultural con sede en Tübingen. Desde entonces se han estudiado diferentes aspectos de la música sudamericana. Los encuentros se basan en ejercicios de percusión corporal para profundizar en los nuevos ritmos, la enseñanza oral de melodías y finalmente llevar estas canciones a cada instrumento. Canciones de Argentina, Brasil, Perú, Bolivia se han estudiado en los talleres y el viaje aún está en marcha. Para participar, ponte en contacto!
+- title: Clases particulares
   image: "/uploads/clases.png"
-  description: 'For particular lessons, get in contact. '
+  description: Para tomar clases particulares, entrar en contacto!
 layout: workshops
 language: es
 ---

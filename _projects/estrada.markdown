@@ -4,29 +4,18 @@ smallHeroTitle: ESTRADA
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/tapa.jpg"
 primary-text:
-- The poetics of Estrada proposes to shift the focus from personal biography and turn
-  to the landscapes of the encounters that emerge along the road.
-- It pursues to capture the chant of various birds, birds that migrate and move together
-  towards the same direction, and then depart on different routes. The compositions
-  oscillate between the life stories of people who are on the road and the sensation
-  of being collectively interwoven in a climate crisis.
-- Contemplative and profound, and also nostalgic yet hopeful, the poetics of this
-  compositions narrate mystical and mundane episodes of everyday life, passing through
-  the complexities and crises of our time, like climate issues and forced migration,
-  or the nostalgia of being far away from home.
-- These songs, some in Spanish and others in Portuguese, began during the "Corpo Aldea"
-  European tour, a moment of nomadism that was transformed into the total stillness
-  that the pandemic brought us".
-credits-title: CREDITS
+- La poética de Estrada propone desplazar el foco de la biografía personal hacia los paisajes y encuentros que surgen a lo largo del camino. 
+- Se escucha el canto de varios pájaros, pájaros que migran y se mueven juntos en la misma dirección, para luego partir por diferentes rutas. Las composiciones oscilan entre las historias de vida de las personas que están en su camino y la sensación/certeza de estar entrelazados colectivamente en una crisis climática, humana, y en cierto sentido de la palabra, espiritual. 
+- Contemplativa y profunda, y también nostálgica pero esperanzadora, la poética de estas composiciones narra episodios místicos y mundanos de la vida cotidiana, transitando entre las fronteras y crisis de nuestro tiempo, dialoga con el caos climático, las migraciones forzadas y la nostalgia de estar lejos del hogar.
+credits-title: CRÉDITOS
 credits-text:
-- <span class="bold">Manu Rosales:</span> Guitar, voice, shakuhachi, bombo, qraqeb<br
-  /><span class="bold">Laurel Florida:</span> Violin, voice<br /><span class="bold">Francisco
-  Martinez:</span> Bandoneon<br /><span class="bold">Javier Fourcade:</span> Tabla,
-  udu<br /><span class="bold">Lautaro Barrionuevo:</span> Double Bass<br /><span class="bold">Helena
-  Helft:</span> Voice
-- Cover art <span class="bold">Beatriz Rola</span>.
-- All songs composed by <span class="bold">Manu Rosales</span>, except "Jardines humanos/Jarabi"
-  (Violeta Parra / trad. Mali).
+- <span class="bold">Manu Rosales:</span> Guitarra, voz, shakuhachi, bombo, qraqeb.<br
+  /><span class="bold">Laurel Florida:</span> Violín, voz.<br /><span class="bold">Francisco
+  Martinez:</span> Bandoneón.<br /><span class="bold">Javier Fourcade:</span> Tabla, udu.<br /><span class="bold">Lautaro Barrionuevo:</span> Contrabajo.<br /><span class="bold">Helena
+  Helft:</span> Voz.
+- Arte de tapa <span class="bold">Beatriz Rola</span>.
+- Todas las composiciones compuestas por <span class="bold">Manu Rosales</span>, excepto  "Jardines humanos/Jarabi" (Violeta Parra / trad. Mali).
+- Las letras de "Ainda" y "Sonho sem ver terra" fueron escritas por <span class="bold">Pavel Tavares</span>.
 layout: projects
 language: es
 ---
