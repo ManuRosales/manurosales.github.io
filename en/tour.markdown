@@ -17,7 +17,7 @@ tour-dates:
   venue: Jornada de Arte y pensamiento latinoamericano
   location: Tübingen, Germany
 - date: 2022-08-05 15:00:00 Z
-  venue: 'Con Koïro Duo , at Floating Castle Festival'
+  venue: Con Koïro Duo , at Floating Castle Festival
   location: Grad Snežnik, Slovenia
 - date: 2022-08-06 12:00:00 Z
   venue: Con Koïro Duo , at Floating Castle Festival

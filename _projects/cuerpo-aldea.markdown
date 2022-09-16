@@ -6,13 +6,19 @@ backgroundImage: "/uploads/hero-cuerpo-aldea.jpg"
 embed: <iframe src="https://bandcamp.com/EmbeddedPlayer/album=2443839239/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/"
   seamless><a href="https://manurosales.bandcamp.com/album/cuerpo-aldea">Cuerpo Aldea
   by Manu Rosales</a></iframe>
-primary-text: Como el título expresa, estas músicas nacen de múltiples culturas dialogando en un mismo cuerpo. Desde los folklores Sudamericanos hasta el Magreb Africano. Una aldea donde converge todo lo escuchado, todo lo aprehendido, sin distinciones de géneros ni estilos. Cuerpo Aldea es una búsqueda sobre la poesía cantada, unida al estudio académico, popular y contemporáneo de la composición.
+primary-text: Como el título expresa, estas músicas nacen de múltiples culturas dialogando
+  en un mismo cuerpo. Desde los folklores Sudamericanos hasta el Magreb Africano.
+  Una aldea donde converge todo lo escuchado, todo lo aprehendido, sin distinciones
+  de géneros ni estilos. Cuerpo Aldea es una búsqueda sobre la poesía cantada, unida
+  al estudio académico, popular y contemporáneo de la composición.
 credits-title: CRÉDITOS
 credits-text:
-- <span class="bold">Manu Rosales:</span> Guitarra, voz, quena, didgeridoo, sicus y kora.<br /><span class="bold">Sofi Álvarez:</span> Set de percusión.<br /><span class="bold">Emmanuel
-  Sandoval:</span> Chelo.<br /><span class="bold">Juan Klas:</span> Flauta y clarinete.<br
-  /><span class="bold">Nico Simari:</span> Contrabajo.<br /><span class="bold">Guillermo
-  OConnor:</span> Segunda guitarra en “Agua de lo imposible”.<br />
+- <span class="bold">Manu Rosales:</span> Guitarra, voz, quena, didgeridoo, sicus
+  y kora.<br /><span class="bold">Sofi Álvarez:</span> Set de percusión.<br /><span
+  class="bold">Emmanuel Sandoval:</span> Chelo.<br /><span class="bold">Juan Klas:</span>
+  Flauta y clarinete.<br /><span class="bold">Nico Simari:</span> Contrabajo.<br /><span
+  class="bold">Guillermo OConnor:</span> Segunda guitarra en “Agua de lo imposible”.<br
+  />
 - 'Arte de tapa y diseño: <span class="bold">Mauro Tapia</span>/<span class="bold">Lucía
   Rosales</span>.'
 - Las nueve canciones compuestas y arregladas por <span class="bold">Manu Rosales</span>.
