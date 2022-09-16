@@ -9,11 +9,9 @@ bio-desktop-text:
   lo que se refleja en sus letras y música. Contemplativa y profunda, entrelazando
   la nostalgia con la esperanza, la poética de sus composiciones dialoga con las complejidades
   y crisis de nuestro tiempo.
-- Acompañado por su guitarra, Manu ha presentado con éxito su primer disco “Cuerpo
-  Aldea” en Argentina y luego en Europa en 2019, girando por Barcelona, ​​Lisboa,
+- Acompañado por su guitarra, Manu ha presentado con éxito su primer disco <span class="bold"><a href="/projects/cuerpo-aldea">“Cuerpo Aldea”</a></span> en Argentina y luego en Europa en 2019, girando por Barcelona, ​​Lisboa,
   Oporto, Bruselas, Gante, Estrasburgo y Tübingen.
-- Recientemente acaba de finalizar la gira de presentación de su segundo disco “Estrada”,
-  comenzando en Argentina y dando luego conciertos en Portugal, Alemania, Bélgica,
+- Recientemente acaba de finalizar la gira de presentación de su segundo disco <span class="bold"><a href="/projects/estrada">“Estrada”</a></span>, comenzando en Argentina y dando luego conciertos en Portugal, Alemania, Bélgica,
   Suiza, Eslovenia, Italia y Francia.
 - Actualmente se encuentra en Argentina, donde presentará este nuevo repertorio a
   lo largo del país.
