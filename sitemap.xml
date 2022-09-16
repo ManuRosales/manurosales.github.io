@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+<url>
+  <loc>http://manurosales.com/</loc>
+  <lastmod>2022-09-15T21:45:19+00:00</lastmod>
+  <priority>1.00</priority>
+  <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="http://manurosales.com"/>
+  <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://manurosales.com/en"/>
+</url>
+<url>
+  <loc>http://manurosales.com/projects/cuerpo-aldea</loc>
+  <lastmod>2022-09-15T21:45:19+00:00</lastmod>
+  <priority>0.80</priority>
+  <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="http://manurosales.com/projects/cuerpo-aldea"/>
+  <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://manurosales.com/en/projects/cuerpo-aldea"/>
+</url>
+<url>
+  <loc>http://manurosales.com/projects/estrada</loc>
+  <lastmod>2022-09-15T21:45:19+00:00</lastmod>
+  <priority>0.80</priority>
+  <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="http://manurosales.com/projects/estrada"/>
+  <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://manurosales.com/en/projects/estrada"/>
+</url>
+<url>
+  <loc>http://manurosales.com/projects/diario-de-um-crime</loc>
+  <lastmod>2022-09-15T21:45:19+00:00</lastmod>
+  <priority>0.80</priority>
+  <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="http://manurosales.com/projects/diario-de-um-crime"/>
+  <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://manurosales.com/en/projects/diario-de-um-crime"/>
+</url>
+<url>
+  <loc>http://manurosales.com/workshops</loc>
+  <lastmod>2022-09-15T21:45:19+00:00</lastmod>
+  <priority>0.80</priority>
+  <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="http://manurosales.com/workshops"/>
+  <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://manurosales.com/en/workshops"/>
+</url>
+<url>
+  <loc>http://manurosales.com/tour</loc>
+  <lastmod>2022-09-15T21:45:19+00:00</lastmod>
+  <priority>0.80</priority>
+  <xhtml:link
+               rel="alternate"
+               hreflang="es"
+               href="http://manurosales.com/tour"/>
+  <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="http://manurosales.com/en/tour"/>
+</url>
+</urlset>
