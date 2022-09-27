@@ -14,12 +14,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-baseurl: ''
-url: https://manurosales.github.io
-twitter_username: jekyllrb
-github_username: jekyll
+description: Con una visión contemporánea de la composición, Manu Rosales crea un
+  universo ecléctico de canciones. Su guitarra evoca distintas raíces del mundo, desde
+  el folklore de Argentina, pasando por los Andes y Brasil y llegando al Noroeste
+  de África
+baseurl: 
+url: https://manurosales.com
 footer: 2022 — MANUROSALES.COM
