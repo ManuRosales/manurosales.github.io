@@ -1,6 +1,9 @@
 ---
 title: Manu Rosales - Músico, compositor, productor y docente
-description: Con una visión contemporánea de la composición, Manu Rosales crea un universo ecléctico de canciones. Su guitarra evoca distintas raíces del mundo, desde el folklore de Argentina, pasando por los Andes y Brasil y llegando al Noroeste de África.
+description: Con una visión contemporánea de la composición, Manu Rosales crea un
+  universo ecléctico de canciones. Su guitarra evoca distintas raíces del mundo, desde
+  el folklore de Argentina, pasando por los Andes y Brasil y llegando al Noroeste
+  de África.
 tituloBio: BIO
 bio-desktop-text:
 - Con una visión contemporánea de la composición, Manu Rosales crea un universo ecléctico
