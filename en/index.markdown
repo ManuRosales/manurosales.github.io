@@ -12,7 +12,7 @@ bio-desktop-text:
   of everyday life, passing through the complexities and crises of our time, like
   climate issues and forced migration, or the nostalgia of being far away from home.
 - Manu has successfully presented his first álbum <span class="bold"><a href="/en/projects/cuerpo-aldea">“Cuerpo
-  Aldea”</span></a> in Europe in 2019, touring in Barcelona, Lisbon, Porto, Brussels,
+  Aldea”</a></span> in Europe in 2019, touring in Barcelona, Lisbon, Porto, Brussels,
   Ghent, Strasbourg and Tübingen. \nCurrently he is on a tour with his second album
   <span class="bold"><a href="/en/projects/estrada">“Estrada”</a></span>. There will
   be concerts in Portugal, Germany, Belgium, Switzerland, Slovenia, Italy and France.
