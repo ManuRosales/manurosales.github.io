@@ -594,6 +594,81 @@ nav ul li {
     justify-content: center;
   }
 }
+#contact-newsletter {
+  display: flex;
+  width: 80vw;
+  flex-direction: column;
+}
+#contact-newsletter h2:first-of-type {
+  margin-top: 1em;
+}
+#contact-newsletter #contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#contact-newsletter #contact a {
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+#contact-newsletter #newsletter {
+  color: white;
+}
+#contact-newsletter #newsletter #mc_embedded_signup_scroll {
+  display: flex;
+  flex-direction: column;
+}
+#contact-newsletter #newsletter .mc-field-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#contact-newsletter #newsletter label {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+  margin-bottom: 1em;
+}
+#contact-newsletter #newsletter input {
+  border: none;
+  background-color: #999999;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+  padding: 0.5em;
+}
+#contact-newsletter #newsletter #mce-EMAIL {
+  background-color: white;
+}
+#contact-newsletter #newsletter .optionalParent {
+  margin-top: 1em;
+}
+#contact-newsletter #newsletter .clear.foot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#contact-newsletter #newsletter #mc-embedded-subscribe {
+  padding-right: 1em;
+  padding-left: 1em;
+  transition: all 0.2s ease-in-out;
+}
+#contact-newsletter #newsletter #mc-embedded-subscribe:hover {
+  background-color: white;
+}
+
+@media (min-width: 767px) {
+  #contact-newsletter {
+    flex-direction: row;
+  }
+  #contact-newsletter h2 {
+    font-size: 2em;
+  }
+  #contact-newsletter #contact {
+    width: 50%;
+  }
+  #contact-newsletter #newsletter {
+    width: 50%;
+  }
+}
 #english-text, #divider {
   margin-top: 1.5em;
 }

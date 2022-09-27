@@ -27,6 +27,10 @@ tituloVideo: MAREA
 urlVideo: POjvEmtovIk
 video-fallback-image: "/uploads/Manuel-Rosales.JPG"
 tituloLinks: LINKS
+tituloContacto: CONTACTO
+tituloNewsletter: NEWSLETTER
+labelFormulario: "Dirección de correo electrónico:"
+textoBoton: SUSCRIBIRSE
 layout: index
 language: es
 ---
@@ -41,8 +45,11 @@ language: es
     </h2>
     {% include index/video.html %}
     {% include index/fotos.html %}
+    <!---
     <h2>
         {{ page.tituloLinks }} —
     </h2>
     {% include index/links.html %}
+    --->
+    {% include index/contact-newsletter.html %}
 </section>

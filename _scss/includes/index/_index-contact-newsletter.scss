@@ -1,0 +1,108 @@
+#contact-newsletter {
+
+    display: flex;
+    width: 80vw;
+    flex-direction: column;
+
+    h2:first-of-type {
+
+        margin-top: 1em;
+
+    }
+
+    #contact {
+        
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        a {
+            margin-bottom: 1em;
+            font-size: 1em;
+        }
+
+    }
+
+    #newsletter {
+
+        color: white;
+        
+        #mc_embedded_signup_scroll {
+
+            display: flex;
+            flex-direction: column;
+
+        }
+
+        .mc-field-group {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        label {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1em;
+            margin-bottom: 1em;
+        }
+
+        input {
+            border: none;
+            background-color: #999999;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1em;
+            padding: 0.5em;
+        }
+
+        #mce-EMAIL {
+            background-color: white;
+        }
+
+        .optionalParent {
+            margin-top: 1em;
+        }
+
+        .clear.foot {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #mc-embedded-subscribe {
+            padding-right: 1em;
+            padding-left: 1em;
+            transition: all .2s ease-in-out;
+        }
+
+        #mc-embedded-subscribe:hover {
+            background-color: white;
+        }
+
+    }
+
+}
+
+@media (min-width: 767px) {
+    #contact-newsletter {
+
+        flex-direction: row;
+
+        h2 {
+            font-size: 2em;
+        }
+
+        #contact {
+
+            width: 50%;
+
+        }
+    
+        #newsletter {
+
+            width: 50%;
+
+        }
+
+    }
+}
+

@@ -4,7 +4,7 @@ smallHeroTitle: TALLERES
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/workshops-header.png"
 workshops:
-- title: Delving into south american folk music
+- title: Buceando en la música sudamericana
   image: "/uploads/workshop-delving.png"
   description:
   - En 2020 nació el proyecto Delving into south american music ("Buceando en la música
