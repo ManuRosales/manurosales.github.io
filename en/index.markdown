@@ -1,5 +1,6 @@
 ---
 title: Manu Rosales - Musician, composer, producer and teacher
+description: With a contemporary view over songwriting, Manu Rosales creates an eclectic universe of sounds. His guitar evokes different roots of the world, from the folklore of Argentina, passing through the Andes and Brazil and reaching the Northwest of Africa.
 tituloBio: BIO
 bio-desktop-text:
 - With a contemporary view over songwriting, <span class="bold">Manu Rosales</span>
@@ -34,7 +35,7 @@ video-fallback-image: "/uploads/Manuel-Rosales.JPG"
 tituloLinks: LINKS
 tituloContacto: CONTACT
 tituloNewsletter: NEWSLETTER
-labelFormulario: 'E-mail address:'
+labelFormulario: 'E-MAIL ADDRESS:'
 textoBoton: SUBSCRIBE
 language: en
 layout: index

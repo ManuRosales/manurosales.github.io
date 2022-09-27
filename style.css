@@ -128,6 +128,11 @@ nav a:hover {
   text-decoration: none;
 }
 
+nav p {
+  font-size: 1em;
+  text-align: left;
+}
+
 nav ul li {
   list-style: none;
   margin-top: 1em;

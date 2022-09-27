@@ -1,5 +1,6 @@
 ---
 title: DIÁRIO DE UM CRIME - Manu Rosales - Musician, composer, producer and teacher
+description: The Diary of a Crime talks about borders, between inside and outside, Me and the World, the legal and the illegal, normality and craziness. Borders, in this sense, are not only geographi- cal or political. Borders are bodies, languages, dreams, beliefs. Everything that, possibly, is linking us but also sometimes hurting, keeping us at distance. It is an intimate, intermediary space that allows passages.
 smallHeroTitle: DIÁRIO DE UM CRIME
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/diario.png"

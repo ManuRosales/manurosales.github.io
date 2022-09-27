@@ -1,5 +1,6 @@
 ---
 title: CUERPO ALDEA - Manu Rosales - Músico, compositor, productor y docente
+description: Cuerpo Aldea es una búsqueda sobre la poesía cantada, unida al estudio académico, popular y contemporáneo de la composición. Una aldea donde converge todo lo escuchado, todo lo aprehendido, sin distinciones de géneros ni estilos. Desde los folklores Sudamericanos hasta el Magreb Africano.
 smallHeroTitle: CUERPO ALDEA
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/hero-cuerpo-aldea.jpg"

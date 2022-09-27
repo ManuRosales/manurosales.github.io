@@ -1,5 +1,6 @@
 ---
 title: CUERPO ALDEA - Manu Rosales - Musician, composer, producer and teacher
+description: Cuerpo Aldea is a search for sung poetry linked to the popular and contemporary study of composition. These songs are born from multiple cultures dialoguing in the same body, from South American folklore to the African Maghreb.
 smallHeroTitle: CUERPO ALDEA
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/hero-cuerpo-aldea.jpg"

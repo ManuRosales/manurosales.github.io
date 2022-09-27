@@ -1,5 +1,6 @@
 ---
 title: TOUR - Manu Rosales - Musician, composer, producer and teacher
+description: Tour dates for the musician, composer, producer and teacher Manu Rosales.
 smallHeroTitle: TOUR
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/tour.png"

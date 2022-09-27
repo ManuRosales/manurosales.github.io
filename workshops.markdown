@@ -1,5 +1,6 @@
 ---
 title: TALLERES - Manu Rosales - Músico, compositor, productor y docente
+description: Talleres y clases del músico, compositor, productor y docente Manu Rosales.
 smallHeroTitle: TALLERES
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/workshops-header.png"

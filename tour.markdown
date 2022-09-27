@@ -1,5 +1,6 @@
 ---
 title: CONCIERTOS - Manu Rosales - Músico, compositor, productor y docente
+description: Calendario de conciertos para el músico, compositor, productor y docente Manu Rosales.
 smallHeroTitle: CONCIERTOS
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/tour.png"
