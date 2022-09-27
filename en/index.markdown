@@ -20,9 +20,10 @@ bio-desktop-text:
   American Folk Music"</span> in cooperation with Klangfolk e.V., a Tübingen based
   cultural associacion, in which he shares different aspects of South American music.
 bio-mobile-text:
-- Con una visión contemporánea de la composición, Manu Rosales crea un universo ecléctico
-  de canciones. Su guitarra evoca distintas raíces del mundo, desde el folklore de
-  Argentina, pasando por los Andes y Brasil y llegando al Noroeste de África.
+- With a contemporary view over songwriting, <span class="bold">Manu Rosales</span>
+  creates an eclectic universe of  sounds. His guitar evokes different roots of the
+  world, from the folklore of Argentina, passing through the Andes and Brazil and
+  reaching the Northwest of Africa.
 images:
 - "/uploads/ethno%20grande.png"
 - "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg"
@@ -35,8 +36,8 @@ tituloContacto: CONTACT
 tituloNewsletter: NEWSLETTER
 labelFormulario: 'E-mail address:'
 textoBoton: SUBSCRIBE
-layout: index
 language: en
+layout: index
 ---
 
 <section id="bio">
