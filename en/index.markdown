@@ -33,7 +33,7 @@ video-fallback-image: "/uploads/Manuel-Rosales.JPG"
 tituloLinks: LINKS
 tituloContacto: CONTACT
 tituloNewsletter: NEWSLETTER
-labelFormulario: "E-mail address:"
+labelFormulario: 'E-mail address:'
 textoBoton: SUBSCRIBE
 layout: index
 language: en
