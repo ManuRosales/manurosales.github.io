@@ -41,7 +41,7 @@ tituloNewsletter: NEWSLETTER
 labelFormulario: 'E-MAIL ADDRESS:'
 textoBoton: SUBSCRIBE
 language: en
-altLang: '/'
+altLang: "/"
 layout: index
 ---
 

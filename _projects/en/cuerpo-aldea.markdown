@@ -30,7 +30,7 @@ links-title: LISTEN ON
 link-spotify: https://open.spotify.com/album/0cV1yAHx9NSEsyFyMBoQs4?si=rsyG5TeWS0SCUgJRZL8JBg
 link-youtube: https://www.youtube.com/watch?v=6ZW9Slotpy8
 layout: projects
-altLang: '/projects/cuerpo-aldea'
+altLang: "/projects/cuerpo-aldea"
 language: en
 ---
 
