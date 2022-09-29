@@ -1,6 +1,11 @@
 ---
 title: DIÁRIO DE UM CRIME - Manu Rosales - Músico, compositor, productor y docente
-description: Diario de un crimen habla de fronteras, entre adentro y afuera, Yo y el Mundo, lo legal y lo ilegal, la normalidad y la locura. Las fronteras, en este sentido, no son sólo geográficas o políticas. Las fronteras son cuerpos, lenguajes, sueños, creencias. Todo lo que, posiblemente, nos está uniendo pero también a veces hiriendo, manteniéndonos a distancia. Es un espacio íntimo, intermedio, que permite los pasajes.
+description: Diario de un crimen habla de fronteras, entre adentro y afuera, Yo y
+  el Mundo, lo legal y lo ilegal, la normalidad y la locura. Las fronteras, en este
+  sentido, no son sólo geográficas o políticas. Las fronteras son cuerpos, lenguajes,
+  sueños, creencias. Todo lo que, posiblemente, nos está uniendo pero también a veces
+  hiriendo, manteniéndonos a distancia. Es un espacio íntimo, intermedio, que permite
+  los pasajes.
 smallHeroTitle: DIÁRIO DE UM CRIME
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/diario.png"
