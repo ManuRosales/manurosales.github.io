@@ -29,6 +29,7 @@ tour-dates:
   location: Grad Snežnik, Slovenia
 layout: tour
 language: es
+altLang: '/en/tour'
 ---
 
 <section>

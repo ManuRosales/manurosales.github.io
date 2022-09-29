@@ -20,6 +20,7 @@ credits-text: <span class="bold">Pavel Tavares:</span> Director.<br /><span clas
   de Corbier:</span> Co-autora, escritora.<br /><span class="bold">Manu Rosales:</span>
   Compositor de la banda sonora y producción de sonido.<br />
 layout: projects
+altLang: '/projects/en/diario-de-um-crime'
 language: es
 ---
 

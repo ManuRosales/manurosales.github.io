@@ -29,7 +29,7 @@
           <a href="/tour"> CONCIERTOS </a>
         </li>
         <li>
-          <a href="/en"> ENGLISH </a>
+          <a href="{{ page.altLang }}"> ENGLISH </a>
         </li>
       {% endif %}
       {% if page.language == 'en' %}
@@ -57,7 +57,7 @@
             <a href="/en/tour"> TOUR </a>
           </li>
           <li>
-            <a href="/"> ESPAÑOL </a>
+            <a href="{{ page.altLang }}"> ESPAÑOL </a>
           </li>
       {% endif %}
     </ul>

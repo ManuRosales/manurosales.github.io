@@ -23,6 +23,7 @@ workshops:
   description: 'For particular lessons, get in contact. '
 layout: workshops
 language: en
+altLang: '/workshops'
 ---
 
 <section>

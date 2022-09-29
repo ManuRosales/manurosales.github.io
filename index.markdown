@@ -41,6 +41,7 @@ labelFormulario: 'DIRECCIÓN DE CORREO ELECTRÓNICO:'
 textoBoton: SUSCRIBIRSE
 layout: index
 language: es
+altLang: '/en'
 ---
 
 <section id="bio">

@@ -31,6 +31,7 @@ credits-text:
   Tavares</span>.
 layout: projects
 language: es
+altLang: '/projects/en/estrada'
 ---
 
 <section>

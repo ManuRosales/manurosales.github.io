@@ -21,6 +21,7 @@ workshops:
   description: Para tomar clases particulares, entrar en contacto!
 layout: workshops
 language: es
+altLang: '/en/workshops'
 ---
 
 <section>

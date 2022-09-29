@@ -27,6 +27,7 @@ tour-dates:
   venue: Floating Castle Festival
   location: Grad Snežnik, Slovenia
 layout: tour
+altLang: '/tour'
 language: en
 ---
 
