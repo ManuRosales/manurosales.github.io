@@ -15,14 +15,13 @@ bio-desktop-text:
   y crisis de nuestro tiempo.
 - Acompañado por su guitarra, Manu ha presentado con éxito su primer disco <span class="bold"><a
   href="/projects/cuerpo-aldea">“Cuerpo Aldea”</a></span> en Argentina y luego en
-  Europa en 2019, girando por Barcelona, ​​Lisboa, Oporto, Bruselas, Gante, Estrasburgo
-  y Tübingen.
+  Europa en 2019, tour que lo ha llevado a tocar en Barcelona, ​​Lisboa, Oporto, Bruselas,
+  Gante, Estrasburgo y Tübingen.
 - Recientemente acaba de finalizar la gira de presentación de su segundo disco <span
-  class="bold"><a href="/projects/estrada">“Estrada”</a></span>, comenzando en Argentina
-  y dando luego conciertos en Portugal, Alemania, Bélgica, Suiza, Eslovenia, Italia
-  y Francia.
-- Actualmente se encuentra en Argentina, donde presentará este nuevo repertorio a
-  lo largo del país.
+  class="bold"><a href="/projects/estrada">“Estrada”</a></span>, comenzada en Argentina
+  y continuada luego en Portugal, Alemania, Bélgica, Suiza, Eslovenia, Italia y Francia.
+- Actualmente se encuentra en Argentina nuevamente, donde presentará este nuevo repertorio
+  a lo largo del país.
 bio-mobile-text:
 - Con una visión contemporánea de la composición, Manu Rosales crea un universo ecléctico
   de canciones. Su guitarra evoca distintas raíces del mundo, desde el folklore de
@@ -39,9 +38,9 @@ tituloContacto: CONTACTO
 tituloNewsletter: NEWSLETTER
 labelFormulario: 'DIRECCIÓN DE CORREO ELECTRÓNICO:'
 textoBoton: SUSCRIBIRSE
-layout: index
 language: es
 altLang: "/en"
+layout: index
 ---
 
 <section id="bio">
