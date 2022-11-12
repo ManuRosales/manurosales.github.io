@@ -17,7 +17,7 @@ bio-desktop-text:
   climate issues and forced migration, or the nostalgia of being far away from home.
 - Manu has successfully presented his first álbum <span class="bold"><a href="/en/projects/cuerpo-aldea">“Cuerpo
   Aldea”</a></span> in Europe in 2019, touring in Barcelona, Lisbon, Porto, Brussels,
-  Ghent, Strasbourg and Tübingen. \nCurrently he is on a tour with his second album
+  Ghent, Strasbourg and Tübingen. Currently he is on a tour with his second album
   <span class="bold"><a href="/en/projects/estrada">“Estrada”</a></span>. There will
   be concerts in Portugal, Germany, Belgium, Switzerland, Slovenia, Italy and France.
 - Since 2020 he has been conducting the project <span class="bold">"Delving into South
