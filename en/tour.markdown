@@ -5,9 +5,6 @@ smallHeroTitle: TOUR
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/tour.png"
 tour-dates:
-- date: 2022-07-15 16:30:00 Z
-  venue: Muzikantenhuis
-  location: Ghent, Belgium
 - date: 2022-07-17 14:00:00 Z
   venue: Das Schloss Hohentübingen
   location: Tübingen, Germany
@@ -26,9 +23,12 @@ tour-dates:
 - date: 2022-08-07 12:00:00 Z
   venue: Floating Castle Festival
   location: Grad Snežnik, Slovenia
-layout: tour
+- date: 2022-10-27 20:30:00 Z
+  venue: El Páramo Cultural
+  location: Buenos Aires, Argentina
 altLang: "/tour"
 language: en
+layout: tour
 ---
 
 <section>
