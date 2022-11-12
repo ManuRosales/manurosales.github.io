@@ -6,17 +6,17 @@ smallHeroTitle: ESTRADA
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/tapa.jpg"
 primary-text:
-- La poética de Estrada propone desplazar el foco de la biografía personal hacia los
-  paisajes y encuentros que surgen a lo largo del camino.
-- Se escucha el canto de varios pájaros, pájaros que migran y se mueven juntos en
-  la misma dirección, para luego partir por diferentes rutas. Las composiciones oscilan
-  entre las historias de vida de las personas que están en su camino y la sensación/certeza
-  de estar entrelazados colectivamente en una crisis climática, humana, y en cierto
-  sentido de la palabra, espiritual.
-- Contemplativa y profunda, y también nostálgica pero esperanzadora, la poética de
-  estas composiciones narra episodios místicos y mundanos de la vida cotidiana, transitando
-  entre las fronteras y crisis de nuestro tiempo, dialoga con el caos climático, las
-  migraciones forzadas y la nostalgia de estar lejos del hogar.
+- La poética de <span class="bold">Estrada</span> propone desplazar el foco de la
+  biografía personal hacia los paisajes y encuentros que surgen a lo largo del camino.
+- 'Se escucha el canto de varios pájaros, pájaros que migran y se mueven juntos en
+  la misma dirección, para luego partir por diferentes rutas. De la misma forma oscilan
+  las canciones, entrelazando lo individual y lo colectivo, sobrevolando fronteras
+  y crisis de nuestro tiempo. Estas canciones evocan así las migraciones forzadas,
+  la nostalgia de un hogar y la crisis climática que sigue revelandose. '
+- La instrumentación y composición responde al mismo concepto, la guitarra y voz de
+  Manu aparece en su estado más íntimo así como también entrelazada a un ensamble
+  no convencional (bandoneón, tabla, violínes, cellos, guitarras eléctricas, shakuhachi,
+  qraqeb, y más).
 credits-title: CRÉDITOS
 credits-text:
 - <span class="bold">Manu Rosales:</span> Guitarra, voz, shakuhachi, bombo, qraqeb.<br
@@ -29,9 +29,9 @@ credits-text:
   humanos/Jarabi" (Violeta Parra / trad. Mali).
 - Las letras de "Ainda" y "Sonho sem ver terra" fueron escritas por <span class="bold">Pavel
   Tavares</span>.
-layout: projects
 language: es
 altLang: "/projects/en/estrada"
+layout: projects
 ---
 
 <section>
