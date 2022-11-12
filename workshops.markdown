@@ -14,14 +14,14 @@ workshops:
     música sudamericana. Los encuentros se basan en ejercicios de percusión corporal
     para profundizar en los nuevos ritmos, la enseñanza oral de melodías y finalmente
     llevar estas canciones a cada instrumento. Canciones de Argentina, Brasil, Perú,
-    Bolivia se han estudiado en los talleres y el viaje aún está en marcha. Para participar,
-    ponte en contacto!
+    Bolivia se han estudiado en los talleres y el viaje todavía está en marcha. Para
+    participar, entrá en contacto!
 - title: Clases particulares
   image: "/uploads/clases.png"
   description: Para tomar clases particulares, entrar en contacto!
-layout: workshops
 language: es
 altLang: "/en/workshops"
+layout: workshops
 ---
 
 <section>
