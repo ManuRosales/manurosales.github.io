@@ -23,7 +23,8 @@ credits-text:
   /><span class="bold">Laurel Florida:</span> Violín, voz.<br /><span class="bold">Francisco
   Martinez:</span> Bandoneón.<br /><span class="bold">Javier Fourcade:</span> Tabla,
   udu.<br /><span class="bold">Lautaro Barrionuevo:</span> Contrabajo.<br /><span
-  class="bold">Helena Helft:</span> Voz.
+  class="bold">Helena Helft:</span> Voz.<br /><span class="bold">Stephanie Kobori:</span>
+  Voz.
 - Arte de tapa <span class="bold">Beatriz Rola</span>.
 - Todas las composiciones compuestas por <span class="bold">Manu Rosales</span>, excepto  "Jardines
   humanos/Jarabi" (Violeta Parra / trad. Mali).
