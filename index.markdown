@@ -31,7 +31,7 @@ images:
 - "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg"
 - "/uploads/IMG-20190731-WA0016.jpg"
 tituloVideo: 'CUERPO ALDEA '
-urlVideo: 6ZW9Slotpy8
+urlVideo: POjvEmtovIk
 video-fallback-image: "/uploads/Manuel-Rosales.JPG"
 tituloLinks: LINKS
 tituloContacto: CONTACTO
