@@ -30,8 +30,8 @@ images:
 - "/uploads/ethno%20grande.png"
 - "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg"
 - "/uploads/IMG-20190731-WA0016.jpg"
-tituloVideo: MAREA
-urlVideo: POjvEmtovIk
+tituloVideo: 'CUERPO ALDEA '
+urlVideo: 6ZW9Slotpy8
 video-fallback-image: "/uploads/Manuel-Rosales.JPG"
 tituloLinks: LINKS
 tituloContacto: CONTACTO
