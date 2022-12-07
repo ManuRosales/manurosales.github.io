@@ -18,7 +18,7 @@ workshops:
     participar, entrá en contacto!
 - title: Clases particulares
   image: "/uploads/clases.png"
-  description: Para tomar clases particulares, entrar en contacto!
+  description: Para tomar clases particulares, entrá en contacto!
 language: es
 altLang: "/en/workshops"
 layout: workshops
