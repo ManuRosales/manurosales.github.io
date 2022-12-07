@@ -6,7 +6,7 @@ smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/workshops-header.png"
 workshops:
 - title: Buceando en la música sudamericana
-  image: "/uploads/workshop-delving.png"
+  image: "/uploads/workshop-canciones.png"
   description:
   - En 2020 nació el proyecto Delving into south american music ("Buceando en la música
     folclórica sudamericana") en cooperación con Klangfolk e.V., una asociación cultural
