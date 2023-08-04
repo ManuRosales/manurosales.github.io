@@ -4,7 +4,9 @@ description: La poética de Estrada propone desplazar el foco de la biografía p
   hacia los paisajes y encuentros que surgen a lo largo del camino.
 smallHeroTitle: ESTRADA
 smallHeroTitle-color: "#999999"
-embed: <iframe src="https://bandcamp.com/EmbeddedPlayer/album=1706411445/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="https://manurosales.bandcamp.com/album/estrada">Estrada by Manu Rosales</a></iframe>
+embed: <iframe src="https://bandcamp.com/EmbeddedPlayer/album=1706411445/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/"
+  seamless><a href="https://manurosales.bandcamp.com/album/estrada">Estrada by Manu
+  Rosales</a></iframe>
 backgroundImage: "/uploads/tapa.jpg"
 primary-text:
 - La poética de <span class="bold">Estrada</span> propone desplazar el foco de la
