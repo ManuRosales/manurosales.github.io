@@ -5,6 +5,7 @@ description: The poetics of Estrada proposes to shift the focus from personal bi
 smallHeroTitle: ESTRADA
 smallHeroTitle-color: "#999999"
 backgroundImage: "/uploads/tapa.jpg"
+embed: <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1706411445/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="https://manurosales.bandcamp.com/album/estrada">Estrada by Manu Rosales</a></iframe>
 primary-text:
 - The poetics of Estrada proposes to shift the focus from personal biography and turn
   to the landscapes of the encounters that emerge along the road.
