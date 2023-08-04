@@ -38,7 +38,7 @@ layout: projects
 
 <section>
     {% if page.embed != false %}
-        {{ page.embed }}
+        {% include projects/embed.html %}
     {% endif %}
     <div>
         {% for paragraph in page.primary-text %}
