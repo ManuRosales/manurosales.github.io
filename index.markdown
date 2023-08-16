@@ -16,15 +16,16 @@ bio-desktop-text:
   href="/projects/cuerpo-aldea">“Cuerpo Aldea”</a></span> en Argentina y luego en
   Europa en 2019, tour que lo ha llevado a tocar en Barcelona, ​​Lisboa, Oporto, Bruselas,
   Gante, Estrasburgo y Tübingen.
-- "Durante 2022 realizó el tour de presentación de su segundo disco <span class=\"bold\"><a
-  href=\"/projects/estrada\">“Estrada”</a></span>, comenzado en Argentina y continuado
-  luego en Portugal, Alemania, Bélgica, Suiza, Eslovenia, Italia y Francia.\n\nParalelamente
-  a los conciertos de Estrada, se presentó en diversos escenarios y festivales de
-  Europa acompañado por la clarinetista y cantante brasilera Stephanie Kobori, estrenando
-  su Koiro Duo, donde entrelazan la composición propia con músicas tradicionales de
-  Brasil y Argentina. \n"
+- |+
+  Durante 2022 realizó el tour de presentación de su segundo disco <span class="bold"><a href="/projects/estrada">“Estrada”</a></span>, comenzado en Argentina y continuado luego en Portugal, Alemania, Bélgica, Suiza, Eslovenia, Italia y Francia.
+
+
 - Actualmente se encuentra estudiando una maestría en la Universidad de Artes de Helsinki,
   Sibelius Academy.
+- 'Paralelamente a los conciertos de Estrada, se presentó en diversos escenarios y
+  festivales de Europa acompañado por la clarinetista y cantante brasilera Stephanie
+  Kobori, estrenando su Koiro Duo. Proyecto donde se entrelazan sus composiciones
+  propias con canciones tradicionales de Brasil y Argentina. '
 bio-mobile-text:
 - Con una visión contemporánea de la composición, Manu Rosales crea un universo ecléctico
   de canciones. Su guitarra evoca distintas raíces del mundo, desde el folklore de
