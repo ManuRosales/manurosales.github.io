@@ -9,19 +9,22 @@ bio-desktop-text:
 - Con una visión contemporánea de la composición, Manu Rosales crea un universo ecléctico
   de canciones. Su guitarra evoca distintas raíces del mundo, desde el folklore de
   Argentina, pasando por los Andes y Brasil y llegando al Noroeste de África.
-- La curiosidad nómada de Manu lo ha inspirado a profundizar en múltiples culturas,
-  lo que se refleja en sus letras y música. Contemplativa y profunda, entrelazando
-  la nostalgia con la esperanza, la poética de sus composiciones dialoga con las complejidades
-  y crisis de nuestro tiempo.
-- Acompañado por su guitarra, Manu ha presentado con éxito su primer disco <span class="bold"><a
+- La curiosidad nómada de Manu lo ha acercado a múltiples culturas, lo que se refleja
+  en sus letras y música. Contemplativa y meditativa, la poética de sus composiciones
+  propone un diálogo con las complejidades y crisis de nuestro tiempo.
+- Acompañado por su guitarra, Manu ha presentado su primer disco <span class="bold"><a
   href="/projects/cuerpo-aldea">“Cuerpo Aldea”</a></span> en Argentina y luego en
   Europa en 2019, tour que lo ha llevado a tocar en Barcelona, ​​Lisboa, Oporto, Bruselas,
   Gante, Estrasburgo y Tübingen.
-- Recientemente acaba de finalizar la gira de presentación de su segundo disco <span
-  class="bold"><a href="/projects/estrada">“Estrada”</a></span>, comenzada en Argentina
-  y continuada luego en Portugal, Alemania, Bélgica, Suiza, Eslovenia, Italia y Francia.
-- Actualmente se encuentra en Argentina nuevamente, donde presentará este nuevo repertorio
-  a lo largo del país.
+- "Durante 2022 realizó el tour de presentación de su segundo disco <span class=\"bold\"><a
+  href=\"/projects/estrada\">“Estrada”</a></span>, comenzado en Argentina y continuado
+  luego en Portugal, Alemania, Bélgica, Suiza, Eslovenia, Italia y Francia.\n\nParalelamente
+  a los conciertos de Estrada, se presentó en diversos escenarios y festivales de
+  Europa acompañado por la clarinetista y cantante brasilera Stephanie Kobori, estrenando
+  su Koiro Duo, donde entrelazan la composición propia con músicas tradicionales de
+  Brasil y Argentina. \n"
+- Actualmente se encuentra estudiando una maestría en la Universidad de Artes de Helsinki,
+  Sibelius Academy.
 bio-mobile-text:
 - Con una visión contemporánea de la composición, Manu Rosales crea un universo ecléctico
   de canciones. Su guitarra evoca distintas raíces del mundo, desde el folklore de
