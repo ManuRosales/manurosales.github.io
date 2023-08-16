@@ -27,12 +27,13 @@ credits-text:
   Martinez:</span> Bandoneón.<br /><span class="bold">Javier Fourcade:</span> Tabla,
   udu.<br /><span class="bold">Lautaro Barrionuevo:</span> Contrabajo.<br /><span
   class="bold">Helena Helft:</span> Voz.<br /><span class="bold">Stephanie Kobori:</span>
-  Voz.
+  Voz.<br /><span class="bold">Pilar Fogwill:</span> Flauta traversa.
 - Arte de tapa <span class="bold">Beatriz Rola</span>.
 - Todas las composiciones compuestas por <span class="bold">Manu Rosales</span>, excepto  "Jardines
   humanos/Jarabi" (Violeta Parra / trad. Mali).
 - Las letras de "Ainda" y "Sonho sem ver terra" fueron escritas por <span class="bold">Pavel
   Tavares</span>.
+- Diseño <span class="bold">Lucía Rosales</span>.
 language: es
 altLang: "/projects/en/estrada"
 layout: projects
