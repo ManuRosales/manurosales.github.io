@@ -32,7 +32,7 @@ images:
 - "/uploads/IMG-20190731-WA0016.jpg"
 tituloVideo: CAIS
 urlVideo: 95QTWGMSPUc
-video-fallback-image: "/uploads/Manuel-Rosales.JPG"
+video-fallback-image: "/uploads/x_MG_1750.JPG"
 tituloLinks: LINKS
 tituloContacto: CONTACTO
 tituloNewsletter: NEWSLETTER
