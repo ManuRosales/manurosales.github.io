@@ -19,7 +19,7 @@ primary-text: The Diary of a Crime talks about borders, between inside and outsi
 credits-title: CREDITS
 credits-text: <span class="bold">Manu Rosales:</span> Original soundtrack and music
   production<br /><span class="bold">Pavel Tavares:</span> Director<br /><span class="bold">Flore
-  de Corbier:</span> Script and Texts<br />
+  de Corbier:</span> Script and texts<br />
 altLang: "/projects/diario-de-um-crime"
 language: en
 layout: projects
