@@ -21,7 +21,7 @@ primary-text: Diario de un crimen habla de fronteras, entre adentro y afuera, Yo
 credits-title: CRÉDITOS
 credits-text: <span class="bold">Manu Rosales:</span> Compositor de la banda sonora
   y producción de sonido.<br /><span class="bold">Pavel Tavares:</span> Director.<br
-  /><span class="bold">Flore de Corbier:</span> guión y textos.<br />
+  /><span class="bold">Flore de Corbier:</span> Guión y textos.<br />
 altLang: "/projects/en/diario-de-um-crime"
 language: es
 layout: projects
