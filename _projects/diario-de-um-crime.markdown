@@ -19,9 +19,9 @@ primary-text: Diario de un crimen habla de fronteras, entre adentro y afuera, Yo
   hiriendo, manteniéndonos a distancia. Es un espacio íntimo, intermedio, que permite
   los pasajes.
 credits-title: CRÉDITOS
-credits-text: <span class="bold">Pavel Tavares:</span> Director.<br /><span class="bold">Flore
-  de Corbier:</span> Co-autora, escritora.<br /><span class="bold">Manu Rosales:</span>
-  Compositor de la banda sonora y producción de sonido.<br />
+credits-text: <span class="bold">Manu Rosales:</span> Compositor de la banda sonora
+  y producción de sonido.<br /><span class="bold">Pavel Tavares:</span> Director.<br
+  /><span class="bold">Flore de Corbier:</span> Co-autora, escritora.<br />
 altLang: "/projects/en/diario-de-um-crime"
 language: es
 layout: projects
