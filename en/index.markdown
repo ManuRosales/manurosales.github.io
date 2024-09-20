@@ -30,7 +30,7 @@ bio-mobile-text:
   reaching the Northwest of Africa.
 images:
 - "/uploads/manubnw.jpg"
-- "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg"
+- "/uploads/pajaritosbnw.jpg"
 - "/uploads/triobnw.jpg"
 tituloVideo: CAIS
 urlVideo: 95QTWGMSPUc
