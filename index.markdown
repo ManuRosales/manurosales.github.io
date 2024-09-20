@@ -31,7 +31,7 @@ bio-mobile-text:
   de canciones. Su guitarra evoca distintas raíces del mundo, desde el folklore de
   Argentina, pasando por los Andes y Brasil y llegando al Noroeste de África.
 images:
-- "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo(16)-86797c.png"
+- "/uploads/manubnw.jpg"
 - "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo(16).png"
 - "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg"
 tituloVideo: CAIS
