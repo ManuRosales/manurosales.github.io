@@ -29,7 +29,7 @@ bio-mobile-text:
   world, from the folklore of Argentina, passing through the Andes and Brazil and
   reaching the Northwest of Africa.
 images:
-- "/uploads/manubnw.jpg"
+- "/uploads/manubnw%20cortada.jpg"
 - "/uploads/pajaritosbnw.jpg"
 - "/uploads/triobnw.jpg"
 tituloVideo: CAIS
