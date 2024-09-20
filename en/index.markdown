@@ -29,9 +29,9 @@ bio-mobile-text:
   world, from the folklore of Argentina, passing through the Andes and Brazil and
   reaching the Northwest of Africa.
 images:
-- "/uploads/ethno%20grande.png"
+- "/uploads/manubnw.jpg"
 - "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg"
-- "/uploads/IMG-20190731-WA0016.jpg"
+- "/uploads/triobnw.jpg"
 tituloVideo: CAIS
 urlVideo: 95QTWGMSPUc
 video-fallback-image: "/uploads/Manuel-Rosales.JPG"
