@@ -33,7 +33,7 @@ bio-mobile-text:
 images:
 - "/uploads/manubnw.jpg"
 - "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo(16).png"
-- "/uploads/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg"
+- "/uploads/triobnw.jpg"
 tituloVideo: CAIS
 urlVideo: 95QTWGMSPUc
 video-fallback-image: "/uploads/x_MG_1750.JPG"
