@@ -23,7 +23,7 @@ primary-text:
 credits-title: CRÉDITOS
 credits-text:
 - <span class="bold">Manu Rosales:</span> Guitarra, voz, shakuhachi, bombo, qraqeb.<br
-  /><span class="bold">Laurel Florida:</span> Violín, voz.<br /><span class="bold">Francisco
+  /><span class="bold">Laura Campos:</span> Violín, voz.<br /><span class="bold">Francisco
   Martinez:</span> Bandoneón.<br /><span class="bold">Javier Fourcade:</span> Tabla,
   udu.<br /><span class="bold">Lautaro Barrionuevo:</span> Contrabajo.<br /><span
   class="bold">Helena Helft:</span> Voz.<br /><span class="bold">Stephanie Kobori:</span>
