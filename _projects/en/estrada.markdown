@@ -41,8 +41,9 @@ credits-text:
   class="bold">Pilar Fogwill:</span> Flute
 - 'Cover art/design: <span class="bold">Beatriz Rola</span> and <span class="bold">Lucía
   Rosales</span>.'
-- All songs composed by <span class="bold">Manu Rosales</span>, except "Jardines humanos/Jarabi"
-  (Violeta Parra / trad. Mali).
+- 'All songs composed by <span class="bold">Manu Rosales</span>, except "Jardines
+  humanos/Jarabi" (Violeta Parra / trad. Mali). The lyrics of "Ainda" and "Sonho sem
+  ver Terra" by Pavel Tavares. '
 - <span class="bold">Mariano Abadal:</span> Mix<br /><span class="bold">Diego Guerrero:</span>
   Master<br /><span class="bold">Manuel Rosales:</span> Production<br />
 altLang: "/projects/estrada"
