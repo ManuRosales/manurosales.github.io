@@ -14,11 +14,11 @@ primary-text: "Cuerpo Aldea can be translated as \"body village\". As the title 
   the African Maghreb, in dialogue in a singular body. A village where all heard sounds
   and all that was apprehended over time converges, without distinctions of genres
   or styles. Cuerpo Aldea presents a research of sung poetry linked to the popular,
-  contemporary and academic study of song composition. \n\nIn Manu Rosales' debut
+  contemporary and academic study of song composition. \n<br />In Manu Rosales' debut
   album, the guitar and the composer's voice are protagonists elements. However, the
   compositions have a diverse instrumentation including arrangement with flute, clarinet,
   quena, sikus, double bass, cello, percussion set and also didgeridoo and African
-  kora.\n"
+  kora.<br />\n"
 credits-title: CREDITS
 credits-text:
 - <span class="bold">Manu Rosales:</span> Guitar, voice, quena, didgeridoo, sicus,
