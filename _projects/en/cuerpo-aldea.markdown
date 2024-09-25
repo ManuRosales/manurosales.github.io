@@ -28,8 +28,12 @@ credits-text:
   OConnor:</span> Second guitar at “Agua de lo imposible".<br />
 - 'Cover art/design: <span class="bold">Mauro Tapia</span> and <span class="bold">Lucía
   Rosales</span>.'
-- All songs composed by <span class="bold">Manu Rosales</span>, and worked together
-  with the musicians.
+- All songs compositions, lyrics and arrangements by <span class="bold">Manu Rosales</span>.
+  All invited musicians contributed to the arrangements in which they participated.
+- <span class="bold">Mariano Abadal:</span> mix<br /><span class="bold">Fernando Richard:</span>
+  Master.<br /><span class="bold">Mauro Tapia:</span> Cover art.<br /><span class="bold">Lucía
+  Rosales:</span> Graphic design.<br /><span class="bold">Manuel Rosales:</span> Production.<br
+  />
 links-title: LISTEN ON
 link-spotify: https://open.spotify.com/album/0cV1yAHx9NSEsyFyMBoQs4?si=rsyG5TeWS0SCUgJRZL8JBg
 link-youtube: https://www.youtube.com/watch?v=6ZW9Slotpy8
