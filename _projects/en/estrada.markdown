@@ -44,7 +44,7 @@ credits-text:
 - All songs composed by <span class="bold">Manu Rosales</span>, except "Jardines humanos/Jarabi"
   (Violeta Parra / trad. Mali).
 - <span class="bold">Mariano Abadal:</span> Mix<br /><span class="bold">Diego Guerrero:</span>
-  Master.<br /><span class="bold">Manuel Rosales:</span> Production.<br />
+  Master<br /><span class="bold">Manuel Rosales:</span> Production<br />
 altLang: "/projects/estrada"
 language: en
 layout: projects
