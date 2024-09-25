@@ -9,19 +9,28 @@ embed: '<iframe style="border: 0; width: 350px; height: 350px;" src="https://ban
   seamless><a href="https://manurosales.bandcamp.com/album/estrada">Estrada by Manu
   Rosales</a></iframe>'
 primary-text:
-- The poetics of Estrada proposes to shift the focus from personal biography and turn
-  to the landscapes of the encounters that emerge along the road.
-- It pursues to capture the chant of various birds, birds that migrate and move together
-  towards the same direction, and then depart on different routes. The compositions
-  oscillate between the life stories of people who are on the road and the sensation
-  of being collectively interwoven in a climate crisis.
-- Contemplative and profound, and also nostalgic yet hopeful, the poetics of this
-  compositions narrate mystical and mundane episodes of everyday life, passing through
-  the complexities and crises of our time, like climate issues and forced migration,
-  or the nostalgia of being far away from home.
-- These songs, some in Spanish and others in Portuguese, began during the "Corpo Aldea"
-  European tour, a moment of nomadism that was transformed into the total stillness
-  that the pandemic brought us".
+- 'Estrada''s poetics proposes to shift the focus from personal biography to the landscapes
+  and encounters that arise along the way. '
+- The compositions invite reflection, and the possibility of listening to a proposal
+  different from what is usually associated with the category of "singer-songwriter",
+  showing a contemporary songwriting style emerging in Buenos Aires. The songs evoke
+  forced migrations, the longing for home, and the ongoing revelation of the climate
+  crisis.
+- The songs are based on real stories of immigrants, the distances felt and  involved
+  in migration processes and the humanitarian crisis our time is currently going through.
+  The songs are based on immigrants’ real stories, the distance involved in migration
+  processes and the current humanitarian climate crisis.
+- 'The music has its origins in the multiple influences that exist in a cosmopolitan
+  city like Buenos Aires, and still is rooted in Argentine and Brazilian folk. The
+  lyrics move between two languages, Spanish and Portuguese. '
+- 'The instrumentation and composition respond to the same concept, Manu''s guitar
+  and voice move from his most intimate state to the encounter with an unconventional
+  ensemble that includes bandoneon, violin, tabla, cello, double bass, electric guitar,
+  shakuhachi, and qraqeb. Although the compositions are by Manu Rosales, each of the
+  guest musicians contributed ideas to the arrangements, bringing not only their musicality,
+  but also their cultural influences.
+
+'
 credits-title: CREDITS
 credits-text:
 - <span class="bold">Manu Rosales:</span> Guitar, voice, shakuhachi, bombo, qraqeb<br
