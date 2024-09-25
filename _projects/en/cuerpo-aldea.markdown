@@ -9,12 +9,16 @@ backgroundImage: "/uploads/hero-cuerpo-aldea.jpg"
 embed: <iframe src="https://bandcamp.com/EmbeddedPlayer/album=2443839239/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/"
   seamless><a href="https://manurosales.bandcamp.com/album/cuerpo-aldea">Cuerpo Aldea
   by Manu Rosales</a></iframe>
-primary-text: The words "Cuerpo Aldea" can be translated as body and village. As the
-  title expresses, these songs are born from multiple cultures dialoguing in the same
-  body, from South American folklore to the African Maghreb. "A village where all
-  sounds I have heard and everything I have apprehended converge without distinctions
-  of genres or styles". Cuerpo Aldea is a search for sung poetry linked to the popular
-  and contemporary study of composition.
+primary-text: "Cuerpo Aldea can be translated as \"body village\". As the title expresses,
+  the compositions are born from multiple cultures, from South American folklore to
+  the African Maghreb, in dialogue in a singular body. A village where all heard sounds
+  and all that was apprehended over time converges, without distinctions of genres
+  or styles. Cuerpo Aldea presents a research of sung poetry linked to the popular,
+  contemporary and academic study of song composition. \n\nIn Manu Rosales' debut
+  album, the guitar and the composer's voice are protagonists elements. However, the
+  compositions have a diverse instrumentation including arrangement with flute, clarinet,
+  quena, sikus, double bass, cello, percussion set and also didgeridoo and African
+  kora.\n"
 credits-title: CREDITS
 credits-text:
 - <span class="bold">Manu Rosales:</span> Guitar, voice, quena, didgeridoo, sicus,
@@ -29,9 +33,9 @@ credits-text:
 links-title: LISTEN ON
 link-spotify: https://open.spotify.com/album/0cV1yAHx9NSEsyFyMBoQs4?si=rsyG5TeWS0SCUgJRZL8JBg
 link-youtube: https://www.youtube.com/watch?v=6ZW9Slotpy8
-layout: projects
 altLang: "/projects/cuerpo-aldea"
 language: en
+layout: projects
 ---
 
 <section>
