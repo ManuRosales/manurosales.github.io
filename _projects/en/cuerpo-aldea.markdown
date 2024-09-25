@@ -30,7 +30,7 @@ credits-text:
   Rosales</span>.'
 - All songs compositions, lyrics and arrangements by <span class="bold">Manu Rosales</span>.
   All invited musicians contributed to the arrangements in which they participated.
-- <span class="bold">Mariano Abadal:</span> mix<br /><span class="bold">Fernando Richard:</span>
+- <span class="bold">Mariano Abadal:</span> Mix<br /><span class="bold">Fernando Richard:</span>
   Master.<br /><span class="bold">Mauro Tapia:</span> Cover art.<br /><span class="bold">Lucía
   Rosales:</span> Graphic design.<br /><span class="bold">Manuel Rosales:</span> Production.<br
   />
