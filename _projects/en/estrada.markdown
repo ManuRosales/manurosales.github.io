@@ -25,16 +25,16 @@ primary-text:
 credits-title: CREDITS
 credits-text:
 - <span class="bold">Manu Rosales:</span> Guitar, voice, shakuhachi, bombo, qraqeb<br
-  /><span class="bold">Laurel Florida:</span> Violin, voice<br /><span class="bold">Francisco
+  /><span class="bold">Laura Campos:</span> Violin, voice<br /><span class="bold">Francisco
   Martinez:</span> Bandoneon<br /><span class="bold">Javier Fourcade:</span> Tabla,
   udu<br /><span class="bold">Lautaro Barrionuevo:</span> Double Bass<br /><span class="bold">Helena
   Helft:</span> Voice
 - Cover art <span class="bold">Beatriz Rola</span>.
 - All songs composed by <span class="bold">Manu Rosales</span>, except "Jardines humanos/Jarabi"
   (Violeta Parra / trad. Mali).
-layout: projects
 altLang: "/projects/estrada"
 language: en
+layout: projects
 ---
 
 <section>
