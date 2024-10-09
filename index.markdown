@@ -35,7 +35,7 @@ images:
 - "/uploads/pajaritosbnw.jpg"
 - "/uploads/triobnw.jpg"
 tituloVideo: CAIS
-urlVideo: 95QTWGMSPUc
+urlVideo: wDLrEL2tIu0
 video-fallback-image: "/uploads/x_MG_1750.JPG"
 tituloLinks: LINKS
 tituloContacto: CONTACTO
