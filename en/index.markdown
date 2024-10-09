@@ -48,8 +48,8 @@ images:
 - "/uploads/manubnw%20cortada.jpg"
 - "/uploads/pajaritosbnw.jpg"
 - "/uploads/triobnw.jpg"
-tituloVideo: CAIS
-urlVideo: 95QTWGMSPUc
+tituloVideo: MANU ROSALES TRIO
+urlVideo: wDLrEL2tIu0
 video-fallback-image: "/uploads/Manuel-Rosales.JPG"
 tituloLinks: LINKS
 tituloContacto: CONTACT
